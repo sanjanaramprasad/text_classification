@@ -1,1102 +1,1102 @@
 ,text,label
-0,,2
-1,,1
-2,,1
-3,,0
-4,,1
-5,,3
-6,,2
-7,,2
-8,,3
-9,,0
-10,,3
-11,,2
-12,,1
-13,,3
-14,,2
-15,,3
-16,,4
-17,,2
-18,,2
-19,,1
-20,,2
-21,,1
-22,,3
-23,,2
-24,,0
-25,,3
-26,,4
-27,,3
-28,,3
-29,,3
-30,,1
-31,,0
-32,,2
-33,,1
-34,,4
-35,,4
-36,,1
-37,,4
-38,,2
-39,,4
-40,,1
-41,,4
-42,,1
-43,,1
-44,,4
-45,,1
-46,,2
-47,,1
-48,,0
-49,,2
-50,,1
-51,,4
-52,,2
-53,,1
-54,,1
-55,,1
-56,,2
-57,,1
-58,,2
-59,,0
-60,,4
-61,,1
-62,,1
-63,,1
-64,,1
-65,,2
-66,,1
-67,,1
-68,,1
-69,,0
-70,,1
-71,,0
-72,,1
-73,,1
-74,,1
-75,,2
-76,,2
-77,,2
-78,,0
-79,,2
-80,,3
-81,,4
-82,,2
-83,,3
-84,,2
-85,,3
-86,,1
-87,,1
-88,,1
-89,,0
-90,,4
-91,,2
-92,,2
-93,,2
-94,,4
-95,,1
-96,,2
-97,,1
-98,,1
-99,,0
-100,,3
-101,,0
-102,,2
-103,,3
-104,,0
-105,,0
-106,,1
-107,,3
-108,,3
-109,,1
-110,,3
-111,,1
-112,,4
-113,,1
-114,,2
-115,,0
-116,,3
-117,,4
-118,,2
-119,,0
-120,,3
-121,,0
-122,,1
-123,,3
-124,,4
-125,,4
-126,,3
-127,,2
-128,,3
-129,,4
-130,,3
-131,,3
-132,,2
-133,,2
-134,,2
-135,,3
-136,,3
-137,,4
-138,,1
-139,,0
-140,,4
-141,,1
-142,,3
-143,,2
-144,,3
-145,,4
-146,,1
-147,,3
-148,,1
-149,,1
-150,,0
-151,,3
-152,,4
-153,,1
-154,,1
-155,,1
-156,,2
-157,,2
-158,,1
-159,,4
-160,,1
-161,,1
-162,,2
-163,,0
-164,,1
-165,,3
-166,,1
-167,,0
-168,,4
-169,,3
-170,,1
-171,,3
-172,,4
-173,,0
-174,,0
-175,,3
-176,,1
-177,,4
-178,,1
-179,,1
-180,,1
-181,,0
-182,,2
-183,,2
-184,,0
-185,,2
-186,,0
-187,,0
-188,,0
-189,,1
-190,,2
-191,,4
-192,,3
-193,,4
-194,,3
-195,,1
-196,,3
-197,,4
-198,,3
-199,,1
-200,,4
-201,,4
-202,,4
-203,,1
-204,,2
-205,,0
-206,,2
-207,,3
-208,,1
-209,,1
-210,,1
-211,,1
-212,,4
-213,,0
-214,,2
-215,,3
-216,,2
-217,,4
-218,,3
-219,,3
-220,,2
-221,,3
-222,,0
-223,,1
-224,,4
-225,,3
-226,,3
-227,,1
-228,,1
-229,,4
-230,,4
-231,,3
-232,,3
-233,,3
-234,,2
-235,,4
-236,,4
-237,,2
-238,,3
-239,,3
-240,,2
-241,,2
-242,,3
-243,,4
-244,,0
-245,,2
-246,,4
-247,,3
-248,,3
-249,,1
-250,,1
-251,,1
-252,,4
-253,,1
-254,,3
-255,,4
-256,,1
-257,,3
-258,,1
-259,,4
-260,,3
-261,,3
-262,,1
-263,,3
-264,,4
-265,,1
-266,,1
-267,,3
-268,,4
-269,,1
-270,,3
-271,,0
-272,,3
-273,,1
-274,,1
-275,,1
-276,,2
-277,,1
-278,,4
-279,,0
-280,,0
-281,,4
-282,,4
-283,,1
-284,,1
-285,,4
-286,,1
-287,,1
-288,,3
-289,,3
-290,,4
-291,,3
-292,,0
-293,,1
-294,,1
-295,,4
-296,,4
-297,,0
-298,,2
-299,,3
-300,,2
-301,,2
-302,,1
-303,,1
-304,,4
-305,,3
-306,,1
-307,,2
-308,,2
-309,,4
-310,,2
-311,,2
-312,,2
-313,,3
-314,,1
-315,,3
-316,,3
-317,,4
-318,,1
-319,,2
-320,,1
-321,,2
-322,,0
-323,,4
-324,,4
-325,,3
-326,,0
-327,,4
-328,,3
-329,,0
-330,,4
-331,,2
-332,,4
-333,,0
-334,,2
-335,,4
-336,,4
-337,,2
-338,,2
-339,,1
-340,,4
-341,,1
-342,,2
-343,,0
-344,,1
-345,,3
-346,,3
-347,,3
-348,,2
-349,,2
-350,,4
-351,,4
-352,,3
-353,,0
-354,,1
-355,,2
-356,,2
-357,,3
-358,,0
-359,,1
-360,,3
-361,,3
-362,,2
-363,,3
-364,,1
-365,,1
-366,,3
-367,,2
-368,,3
-369,,3
-370,,2
-371,,1
-372,,3
-373,,1
-374,,1
-375,,3
-376,,2
-377,,2
-378,,0
-379,,0
-380,,1
-381,,1
-382,,3
-383,,2
-384,,3
-385,,2
-386,,3
-387,,4
-388,,0
-389,,1
-390,,2
-391,,1
-392,,4
-393,,4
-394,,1
-395,,3
-396,,3
-397,,3
-398,,1
-399,,3
-400,,3
-401,,4
-402,,1
-403,,2
-404,,3
-405,,3
-406,,3
-407,,2
-408,,4
-409,,0
-410,,3
-411,,4
-412,,3
-413,,1
-414,,4
-415,,3
-416,,3
-417,,3
-418,,1
-419,,3
-420,,1
-421,,1
-422,,2
-423,,4
-424,,2
-425,,3
-426,,4
-427,,1
-428,,2
-429,,1
-430,,0
-431,,2
-432,,2
-433,,1
-434,,1
-435,,1
-436,,2
-437,,3
-438,,1
-439,,3
-440,,1
-441,,4
-442,,2
-443,,4
-444,,1
-445,,4
-446,,0
-447,,4
-448,,3
-449,,0
-450,,0
-451,,0
-452,,3
-453,,0
-454,,2
-455,,3
-456,,3
-457,,4
-458,,2
-459,,0
-460,,4
-461,,3
-462,,1
-463,,2
-464,,2
-465,,3
-466,,3
-467,,0
-468,,2
-469,,0
-470,,4
-471,,0
-472,,3
-473,,3
-474,,3
-475,,0
-476,,2
-477,,4
-478,,3
-479,,3
-480,,1
-481,,0
-482,,1
-483,,0
-484,,3
-485,,3
-486,,3
-487,,4
-488,,1
-489,,0
-490,,3
-491,,1
-492,,2
-493,,3
-494,,3
-495,,1
-496,,3
-497,,1
-498,,2
-499,,2
-500,,4
-501,,3
-502,,3
-503,,0
-504,,1
-505,,1
-506,,3
-507,,1
-508,,1
-509,,3
-510,,3
-511,,0
-512,,2
-513,,3
-514,,2
-515,,3
-516,,4
-517,,1
-518,,2
-519,,4
-520,,2
-521,,3
-522,,2
-523,,3
-524,,4
-525,,0
-526,,0
-527,,3
-528,,3
-529,,2
-530,,2
-531,,3
-532,,2
-533,,4
-534,,1
-535,,2
-536,,1
-537,,3
-538,,0
-539,,4
-540,,4
-541,,3
-542,,1
-543,,1
-544,,3
-545,,3
-546,,4
-547,,1
-548,,2
-549,,0
-550,,0
-551,,2
-552,,3
-553,,0
-554,,3
-555,,2
-556,,0
-557,,0
-558,,2
-559,,4
-560,,3
-561,,4
-562,,4
-563,,3
-564,,3
-565,,4
-566,,3
-567,,4
-568,,3
-569,,3
-570,,3
-571,,4
-572,,1
-573,,0
-574,,1
-575,,2
-576,,3
-577,,3
-578,,4
-579,,0
-580,,4
-581,,1
-582,,2
-583,,2
-584,,4
-585,,3
-586,,4
-587,,1
-588,,0
-589,,1
-590,,2
-591,,3
-592,,0
-593,,3
-594,,3
-595,,0
-596,,3
-597,,1
-598,,3
-599,,0
-600,,1
-601,,1
-602,,3
-603,,1
-604,,2
-605,,4
-606,,1
-607,,1
-608,,3
-609,,2
-610,,4
-611,,4
-612,,4
-613,,3
-614,,3
-615,,1
-616,,3
-617,,0
-618,,2
-619,,2
-620,,1
-621,,3
-622,,2
-623,,1
-624,,3
-625,,4
-626,,1
-627,,1
-628,,2
-629,,2
-630,,2
-631,,1
-632,,3
-633,,3
-634,,4
-635,,2
-636,,4
-637,,3
-638,,1
-639,,4
-640,,3
-641,,1
-642,,4
-643,,1
-644,,2
-645,,0
-646,,4
-647,,4
-648,,3
-649,,0
-650,,4
-651,,0
-652,,1
-653,,0
-654,,1
-655,,2
-656,,3
-657,,4
-658,,1
-659,,2
-660,,2
-661,,3
-662,,1
-663,,4
-664,,4
-665,,1
-666,,3
-667,,2
-668,,3
-669,,1
-670,,0
-671,,2
-672,,3
-673,,1
-674,,2
-675,,2
-676,,1
-677,,2
-678,,1
-679,,1
-680,,1
-681,,0
-682,,2
-683,,2
-684,,1
-685,,4
-686,,1
-687,,3
-688,,0
-689,,1
-690,,4
-691,,1
-692,,3
-693,,4
-694,,1
-695,,3
-696,,0
-697,,3
-698,,2
-699,,4
-700,,3
-701,,3
-702,,2
-703,,0
-704,,0
-705,,4
-706,,1
-707,,3
-708,,1
-709,,0
-710,,0
-711,,4
-712,,0
-713,,2
-714,,1
-715,,3
-716,,4
-717,,4
-718,,1
-719,,1
-720,,1
-721,,1
-722,,3
-723,,1
-724,,4
-725,,0
-726,,1
-727,,2
-728,,2
-729,,1
-730,,3
-731,,1
-732,,2
-733,,3
-734,,1
-735,,1
-736,,2
-737,,1
-738,,3
-739,,3
-740,,2
-741,,2
-742,,3
-743,,0
-744,,2
-745,,2
-746,,3
-747,,2
-748,,0
-749,,4
-750,,3
-751,,4
-752,,2
-753,,1
-754,,1
-755,,0
-756,,0
-757,,2
-758,,1
-759,,1
-760,,2
-761,,1
-762,,1
-763,,0
-764,,0
-765,,1
-766,,2
-767,,1
-768,,0
-769,,2
-770,,3
-771,,3
-772,,4
-773,,4
-774,,3
-775,,3
-776,,4
-777,,3
-778,,0
-779,,2
-780,,1
-781,,3
-782,,1
-783,,3
-784,,4
-785,,3
-786,,1
-787,,3
-788,,2
-789,,0
-790,,4
-791,,3
-792,,1
-793,,1
-794,,3
-795,,2
-796,,1
-797,,3
-798,,1
-799,,2
-800,,1
-801,,1
-802,,1
-803,,2
-804,,1
-805,,4
-806,,0
-807,,2
-808,,3
-809,,1
-810,,1
-811,,2
-812,,1
-813,,3
-814,,3
-815,,3
-816,,0
-817,,0
-818,,0
-819,,3
-820,,3
-821,,1
-822,,3
-823,,2
-824,,3
-825,,3
-826,,0
-827,,4
-828,,0
-829,,1
-830,,0
-831,,0
-832,,2
-833,,1
-834,,3
-835,,4
-836,,2
-837,,2
-838,,1
-839,,0
-840,,3
-841,,3
-842,,1
-843,,2
-844,,3
-845,,1
-846,,2
-847,,3
-848,,1
-849,,4
-850,,2
-851,,2
-852,,2
-853,,1
-854,,2
-855,,3
-856,,3
-857,,1
-858,,0
-859,,2
-860,,4
-861,,3
-862,,3
-863,,3
-864,,1
-865,,3
-866,,2
-867,,3
-868,,0
-869,,1
-870,,1
-871,,3
-872,,1
-873,,3
-874,,3
-875,,3
-876,,4
-877,,2
-878,,0
-879,,4
-880,,2
-881,,1
-882,,1
-883,,2
-884,,1
-885,,3
-886,,1
-887,,1
-888,,0
-889,,0
-890,,2
-891,,3
-892,,2
-893,,4
-894,,1
-895,,2
-896,,4
-897,,4
-898,,0
-899,,0
-900,,2
-901,,1
-902,,0
-903,,1
-904,,0
-905,,2
-906,,4
-907,,2
-908,,2
-909,,1
-910,,1
-911,,2
-912,,3
-913,,4
-914,,1
-915,,2
-916,,3
-917,,3
-918,,1
-919,,1
-920,,3
-921,,3
-922,,4
-923,,0
-924,,2
-925,,2
-926,,3
-927,,2
-928,,0
-929,,1
-930,,4
-931,,2
-932,,1
-933,,2
-934,,3
-935,,4
-936,,0
-937,,2
-938,,2
-939,,2
-940,,1
-941,,1
-942,,2
-943,,4
-944,,3
-945,,2
-946,,2
-947,,1
-948,,2
-949,,3
-950,,3
-951,,0
-952,,1
-953,,2
-954,,4
-955,,2
-956,,4
-957,,1
-958,,1
-959,,3
-960,,3
-961,,1
-962,,2
-963,,3
-964,,3
-965,,4
-966,,3
-967,,0
-968,,1
-969,,1
-970,,0
-971,,1
-972,,3
-973,,3
-974,,1
-975,,1
-976,,1
-977,,1
-978,,0
-979,,4
-980,,2
-981,,3
-982,,1
-983,,3
-984,,1
-985,,3
-986,,0
-987,,4
-988,,1
-989,,3
-990,,2
-991,,2
-992,,3
-993,,2
-994,,1
-995,,1
-996,,3
-997,,4
-998,,1
-999,,3
-1000,,4
-1001,,1
-1002,,1
-1003,,1
-1004,,2
-1005,,2
-1006,,2
-1007,,0
-1008,,3
-1009,,2
-1010,,4
-1011,,0
-1012,,1
-1013,,3
-1014,,0
-1015,,1
-1016,,1
-1017,,2
-1018,,3
-1019,,2
-1020,,1
-1021,,1
-1022,,4
-1023,,3
-1024,,2
-1025,,2
-1026,,1
-1027,,3
-1028,,2
-1029,,3
-1030,,2
-1031,,1
-1032,,1
-1033,,3
-1034,,3
-1035,,1
-1036,,0
-1037,,0
-1038,,0
-1039,,2
-1040,,4
-1041,,3
-1042,,2
-1043,,3
-1044,,2
-1045,,1
-1046,,3
-1047,,2
-1048,,3
-1049,,1
-1050,,3
-1051,,1
-1052,,2
-1053,,2
-1054,,4
-1055,,4
-1056,,3
-1057,,3
-1058,,3
-1059,,1
-1060,,3
-1061,,2
-1062,,2
-1063,,2
-1064,,1
-1065,,4
-1066,,3
-1067,,0
-1068,,2
-1069,,1
-1070,,4
-1071,,1
-1072,,0
-1073,,4
-1074,,1
-1075,,2
-1076,,1
-1077,,2
-1078,,1
-1079,,3
-1080,,3
-1081,,1
-1082,,2
-1083,,0
-1084,,1
-1085,,3
-1086,,3
-1087,,1
-1088,,2
-1089,,2
-1090,,3
-1091,,0
-1092,,3
-1093,,2
-1094,,1
-1095,,1
-1096,,2
-1097,,3
-1098,,0
-1099,,3
-1100,,4
+0,in his first stab at the form jacquot takes a slightly anarchic approach that works only sporadically,2
+1,one long string of cliches,1
+2,if you have ever entertained the notion of doing what the title of this film implies what sex with strangers actually shows may put you off the idea forever,1
+3,k19 exploits our substantial collective fear of nuclear holocaust to generate cheap hollywood tension,0
+4,it is played in the most straightfaced fashion with little humor to lighten things up,1
+5,there is a fabric of complex ideas here and feelings that profoundly deepen them,3
+6,it may seem long at 110 minutes if you are not a fan because it includes segments of 12 songs at a reunion concert,2
+7,while the stoically delivered hokum of hart s war is never fun it is still a worthy addition to the growing canon of postsaving private ryan tributes to the greatest generation,2
+8,although laced with humor and a few fanciful touches the film is a refreshingly serious look at young women,3
+9,it all feels like a monty python sketch gone horribly wrong,0
+10,it is a stunning lyrical work of considerable force and truth,3
+11,exists then as an occasionally insightful acting exercise,2
+12,however it may please those who love movies that blare with pop songs young science fiction fans will stomp away in disgust,1
+13,broomfield turns his distinctive blundering style into something that could really help clear up the case,3
+14,a mess when it comes to the characters and writing but works its way underneath the skin like few movies have in recent memory,2
+15,although german cooking does not come readily to mind when considering the world s best cuisine mostly martha could make deutchland a popular destination for hungry tourists,3
+16,a very wellmade funny and entertaining picture,4
+17,they begins and ends with scenes so terrifying i am still stunned,2
+18,a perplexing example of promise unfulfilled despite many charming moments,2
+19,a valueless kiddie paean to pro basketball underwritten by the nba,1
+20,smith is careful not to make fun of these curious owners of architectural oddities,2
+21,all the ampedup tony hawkstyle stunts and thrashing rapmetal ca nt disguise the fact that really we have been here done that,1
+22,a swashbuckling tale of love betrayal revenge and above all faith,3
+23,not a film to rival to live but a fine little amusebouche to keep your appetite whetted,2
+24,there ought to be a directing license so that ed burns can have his revoked,0
+25,a rigorously structured and exquisitely filmed drama about a father and son connection that is a brief shooting star of love,3
+26,on this tricky topic tadpole is very much a step in the right direction with its blend of frankness civility and compassion,4
+27,macdowell whose wifty southern charm has anchored lighter affairs brings an absolutely riveting conviction to her role,3
+28,the jabs it employs are short carefully placed and deadcenter,3
+29,despite its title punchdrunk love is never heavyhanded,3
+30,at once halfbaked and overheated,1
+31,this is a shameless sham calculated to cash in on the popularity of its stars,0
+32,a good if not entirely fresh look at war,2
+33,jason x is positively antidarwinian nine sequels and 400 years later the teens are none the wiser and jason still kills on autopilot,1
+34,people cinema at its finest,4
+35,de niro is a veritable source of sincere passion that this hollywood contrivance orbits around,4
+36,if you believe any of this i can make you a real deal on leftover enron stock that will double in value a week from friday,1
+37,candid and comfortable a film that deftly balances action and reflection as it lets you grasp and feel the passion others have for their work,4
+38,its maker steven spielberg has nt had so much fun in two decades since he was schlepping indiana jones around the globe in search of a giant misplaced ashtray,2
+39,more romantic more emotional and ultimately more satisfying than the tearyeyed original,4
+40,it offers little beyond the momentary joys of pretty and weightless intellectual entertainment,1
+41,it is a remarkably solid and subtly satirical tour de force,4
+42,coughs and sputters on its own postmodern conceit,1
+43,with virtually no interesting elements for an audience to focus on chelsea walls is a tripleespresso endurance challenge,1
+44,lovely and poignant,4
+45,at times the suspense is palpable but by the end there is a sense that the crux of the mystery hinges on a technicality that strains credulity and leaves the viewer haunted by the waste of potential,1
+46,and just when you think it ca nt get any more gay in pops nathan lane,2
+47,a boring parade of talking heads and technical gibberish that will do little to advance the linux cause,1
+48,paid in full is so stale in fact that its most vibrant scene is one that uses clips from brian de palma s scarface,0
+49,van wilder brings a whole new meaning to the phrase comedy gag,2
+50,american chai encourages rueful laughter at stereotypes only an indianamerican would recognize,1
+51,visually imaginative thematically instructive and thoroughly delightful it takes us on a rollercoaster ride from innocence to experience without even a hint of that typical kiddieflick sentimentality,4
+52,exactly what it claims to be a simple diversion for the kids,2
+53,directed in a paintbynumbers manner,1
+54,the movie is dawn of the dead crossed with john carpenter s ghosts of mars with zombies not as ghoulish as the first and trains not as big as the second,1
+55,detox is ultimately a pointless endeavor,1
+56,i have no way of knowing exactly how much is exaggeration but i have got a creepy feeling that the film is closer to the mark than i want to believe,2
+57,despite all evidence to the contrary this clunker has somehow managed to pose as an actual feature movie the kind that charges full admission and gets hyped on tv and purports to amuse small children and ostensible adults,1
+58,huppert s superbly controlled display of murderous vulnerability ensures that malice has a very human face,2
+59,so unremittingly awful that labeling it a dog probably constitutes cruelty to canines,0
+60,i just loved every minute of this film,4
+61,the film contains no good jokes no good scenes barely a moment when carvey s saturday night livehoned mimicry rises above the level of embarrassment,1
+62,to say this was done better in wilder s some like it hot is like saying the sun rises in the east,1
+63,the longer the movie goes the worse it gets but it is actually pretty good in the first few minutes,1
+64,they should have called it gutterball,1
+65,lrb majidi rrb makes us think twice about immigrants we see around us every day,2
+66,it is a bit disappointing that it only manages to be decent instead of dead brilliant,1
+67,that is a cheat,1
+68,the title not only describes its main characters but the lazy people behind the camera as well,1
+69,i do nt think i laughed out loud once,0
+70,may reawaken discussion of the kennedy assassination but this fictional film looks made for cable rather than for the big screen,1
+71,taylor appears to have blown his entire budget on soundtrack rights and had nothing left over for jokes,0
+72,i am sorry that i was unable to get the full brunt of the comedy,1
+73,the movie fails to live up to the sum of its parts,1
+74,it is just disappointingly superficial a movie that has all the elements necessary to be a fascinating involving character study but never does more than scratch the surface,1
+75,think of it as american pie on valium,2
+76,the film takes the materials of human tragedy and dresses them in lovely costumes southern california locations and star power,2
+77,this directorial debut from music video showoff higuchinsky is all flash,2
+78,here s yet another studio horror franchise mucking up its storyline with glitches casual fans could correct in their sleep,0
+79,all in all the count of monte cristo is okay but it is surely no classic like the novel upon which it is based,2
+80,for anyone unfamiliar with pentacostal practices in general and theatrical phenomenon of hell houses in particular it is an eyeopener,3
+81,if steven soderbergh s solaris is a failure it is a glorious failure,4
+82,new best friend s playboymansion presentation of college life is laughoutloud ludicrous,2
+83,there is a wickedly subversive bent to the best parts of birthday girl,3
+84,not for the prurient or squeamish it is a daring if overlong examination of an idolized culture selfloathing and sexual politics,2
+85,while locals will get a kick out of spotting cleveland sites the rest of the world will enjoy a fastpaced comedy with quirks that might make the awardwinning coen brothers envious,3
+86,while lrb hill rrb has learned new tricks the tricks alone are not enough to salvage this lifeless boxing film,1
+87,this is the sort of burly action flick where one coincidence pummels another narrative necessity is a drunken roundhouse and whatever passes for logic is a factor of the last plot device left standing,1
+88,the director knows how to apply textural gloss but his portrait of sexaswar is strictly sitcom,1
+89,lrb a rrb shapeless blob of desperate entertainment,0
+90,dazzling in its complexity disturbing for its extraordinary themes the piano teacher is a film that defies categorisation,4
+91,makes for some truly odd at times confusing kids entertainment but at least this time there is some centered storytelling to go along with all the weird stuff,2
+92,apart from dazzling cinematography we have seen just about everything in blue crush in one form or the other,2
+93,over age 15,2
+94,an exhilarating futuristic thrillernoir minority report twists the best of technology around a gripping story delivering a riveting pulse intensifying escapist adventure of the first order,4
+95,this film seems thirsty for reflection itself taking on adolescent qualities,1
+96,this disturbing biopic is hard to forget,2
+97,from the opening scenes it is clear that all about the benjamins is a totally formulaic movie,1
+98,it has all the excitement of eating oatmeal,1
+99,the most hopelessly monotonous film of the year noteworthy only for the gimmick of being filmed as a single unbroken 87minute take,0
+100,it all adds up to good fun,3
+101,the time machine is a movie that has no interest in itself,0
+102,unfortunately it appears that lrb jackie rrb chan s us influence is starting to show in his hong kong films,2
+103,something akin to a japanese alice through the looking glass except that it seems to take itself far more seriously,3
+104,ultimately feels empty and unsatisfying like swallowing a communion wafer without the wine,0
+105,the moviegoing equivalent of going to a dinner party and being forced to watch the host and hostess s home video of their baby s birth,0
+106,a coarse and stupid grossout,1
+107,cool,3
+108,the film tunes into a grief that could lead a man across centuries,3
+109,a string of rehashed sight gags based in insipid vulgarity,1
+110,the weight of the piece the unerring professionalism of the chilly production and the fascination embedded in the lurid topic prove recommendation enough,3
+111,it appears that something has been lost in the translation to the screen,1
+112,the second coming of harry potter is a film far superior to its predecessor,4
+113,when leguizamo finally plugged an irritating character late in the movie,1
+114,to my taste the film s comic characters come perilously close to being amoses and andys for a new generation,2
+115,as chick flicks go this one is pretty miserable resorting to stringpulling rather than legitimate character development and intelligent plotting,0
+116,despite the 2d animation the wild thornberrys movie makes for a surprisingly cinematic experience,3
+117,uses high comedy to evoke surprising poignance,4
+118,socrates motions for hemlock,2
+119,the movie is what happens when you blow up small potatoes to 10 times their natural size and it ai nt pretty,0
+120,an infectious cultural fable with a tasty balance of family drama and frenetic comedy,3
+121,like being trapped at a perpetual frat party how can something so gross be so boring,0
+122,feels too formulaic and too familiar to produce the transgressive thrills of early underground work,1
+123,a celebration of quirkiness eccentricity and certain individuals tendency to let it all hang out and damn the consequences,3
+124,awesome creatures breathtaking scenery and epic battle scenes add up to another spectacular spectacle,4
+125,lrb a rrb n utterly charming and hilarious film that reminded me of the best of the disney comedies from the 60s,4
+126,neither parker nor donovan is a typical romantic lead but they bring a fresh quirky charm to the formula,3
+127,by the miserable standards to which the slasher genre has sunk actually pretty good,2
+128,seldahl s barbara is a precise and moving portrait of someone whose world is turned upside down first by passion and then by illness,3
+129,filmmakers who can deftly change moods are treasures and even marvels,4
+130,what is surprising about full frontal is that despite its overt selfawareness parts of the movie still manage to break past the artifice and thoroughly engage you,3
+131,it is a scattershot affair but when it hits its mark it is brilliant,3
+132,it kinda works and qualifies as cool at times but is just too lame to work or be cool at others,2
+133,openminded kids kids who read kids who dream will be comforted by the way it deals with big issues like death and destiny,2
+134,better to just call it abc kiarostami,2
+135,just as moving uplifting and funny as ever,3
+136,the wild thornberrys movie is a jolly surprise,3
+137,exquisitely nuanced in mood tics and dialogue this chamber drama is superbly acted by the deeply appealing veteran bouquet and the chilling but quite human berling,4
+138,this movie is maddening,1
+139,not since freddy got fingered has a major release been so painful to sit through,0
+140,not only is undercover brother as funny if not more so than both austin powers films but it is also one of the smarter savvier spoofs to come along in some time,4
+141,another inyourface wallow in the lower depths made by people who have never sung those blues,1
+142,that dogged good will of the parents and vain jia s defoliation of ego make the film touching despite some doldrums,3
+143,more concerned with sade s ideas than with his actions,2
+144,allows us to hope that nolan is poised to embark a major career as a commercial yet inventive filmmaker,3
+145,one of the most significant moviegoing pleasures of the year,4
+146,an occasionally funny but overall limp fishoutofwater story,1
+147,what the film lacks in general focus it makes up for in compassion as corcuera manages to find the seeds of hope in the form of collective action,3
+148,but it could have been worse,1
+149,a wildly inconsistent emotional experience,1
+150,it is as if you are watching a movie that was made in 1978 but not released then because it was so weak and it has been unearthed and released now when it has become even weaker,0
+151,we root for lrb clara and paul rrb even like them though perhaps it is an emotion closer to pity,3
+152,if you dig on david mamet s mind tricks rent this movie and enjoy,4
+153,you wo nt like roger but you will quickly recognize him,1
+154,delivers the same old same old tarted up with latin flava and turned out by hollywood playas,1
+155,for starters the story is just too slim,1
+156,the vintage is pure 87 with a halfhearted twist on its cautionary message fatal attraction do nt have an affair with a nutjob unfaithful do nt if you are married to one,2
+157,half submarine flick half ghost story all in one criminally neglected film,2
+158,the x potion gives the quickly named blossom bubbles and buttercup supernatural powers that include extraordinary strength and laserbeam eyes which unfortunately do nt enable them to discern flimsy screenplays,1
+159,my wife is an actress is an utterly charming french comedy that feels so american in sensibility and style it is virtually its own hollywood remake,4
+160,an overemphatic wouldbe wacky ultimately tedious sex farce,1
+161,but daphne you are too buff fred thinks he is tough and velma wow you have lost weight,1
+162,the kind of spectacularly misconceived enterprise that only a sophisticated cinephile could have perpetrated,2
+163,feels haphazard as if the writers mistakenly thought they could achieve an air of frantic spontaneity by simply tossing in lots of characters doing silly stuff and stirring the pot,0
+164,the piquant story needs more dramatic meat on its bones,1
+165,a difficult absorbing film that manages to convey more substance despite its repetitions and inconsistencies than do most films than are far more pointed and clear,3
+166,an unwise amalgam of broadcast news and vibes,1
+167,a bloated gasbag thesis grotesquely impressed by its own gargantuan aura of selfimportance,0
+168,not the kind of film that will appeal to a mainstream american audience but there is a certain charm about the film that makes it a suitable entry into the fest circuit,4
+169,a full world has been presented onscreen not some series of carefully structured plot points building to a pat resolution,3
+170,fancy a real downer,1
+171,a painfully funny ode to bad behavior,3
+172,featuring a dangerously seductive performance from the great daniel auteuil sade covers the same period as kaufmann s quills with more unsettlingly realistic results,4
+173,given how heavyhanded and portentheavy it is this could be the worst thing soderbergh has ever done,0
+174,has all the depth of a wading pool,0
+175,the flyonthewall method used to document rural french school life is a refreshing departure from the now more prevalent technique of the documakers being a visible part of their work,3
+176,it is just filler,1
+177,a deep and meaningful film,4
+178,sit through this one and you wo nt need a magic watch to stop time your dvd player will do it for you,1
+179,holden caulfield did it better,1
+180,the action switches between past and present but the material link is too tenuous to anchor the emotional connections that purport to span a 125year divide,1
+181,samira makhmalbaf s new film blackboards is much like the ethos of a stream of consciousness although it is unfortunate for the viewer that the thoughts and reflections coming through are torpid and banal,0
+182,brian de palma is utterly mad cinema mad setpiece mad style mad,2
+183,nothing more substantial than a fitfully clever doodle,2
+184,wellnigh unendurable though the picture strains to become cinematic poetry it remains depressingly prosaic and dull,0
+185,while much of the cast has charm especially allodi and nolden the performers are sunk by the film s primitive approach to the mechanics of comedy,2
+186,there is no pleasure in watching a child suffer,0
+187,suffers from the lack of a compelling or comprehensible narrative,0
+188,lrb t rrb here s only so much anyone can do with a florid overplotted anne rice rock n roll vampire novel before the builtin silliness of the whole affair defeats them,0
+189,if the movie succeeds in instilling a wary sense of there but for the grace of god it is far too selfconscious to draw you deeply into its world,1
+190,you wo nt miss its messages but you will be entertained as well,2
+191,for movie lovers as well as opera lovers tosca is a real treat,4
+192,the inspirational screenplay by mike rich covers a lot of ground perhaps too much but ties things together neatly by the end,3
+193,the film s performances are thrilling,4
+194,a fitfully amusing romp that if nothing else will appeal to fans of malcolm in the middle and its pubescent star frankie muniz,3
+195,in all this is a watchable movie that is not quite the memorable experience it might have been,1
+196,affleck and jackson are good sparring partners,3
+197,it inspires a continuing and deeply satisfying awareness of the best movies as monumental picture shows,4
+198,with the bourne identity we return to the more traditional action genre,3
+199,what the director ca nt do is make either of val kilmer s two personas interesting or worth caring about,1
+200,holm embodies the character with an effortlessly regal charisma,4
+201,lrb ns rrb directed the stage version of elling and gets fine performances from his two leads who originated the characters on stage,4
+202,my big fat greek wedding uses stereotypes in a delightful blend of sweet romance and lovingly dished out humor,4
+203,if director michael dowse only superficially understands his characters he does nt hold them in contempt,1
+204,this rather superficial arthouse middlebrow film knows how to please a crowd and that is about all it does well,2
+205,whaley s determination to immerse you in sheer unrelenting wretchedness is exhausting,0
+206,with an emotional sterility to match its outer space setting soderbergh s spectacular swing for the fence yields only a spectacular whiff,2
+207,at its best queen is campy fun like the vincent price horror classics of the 60s,3
+208,moretti s compelling anatomy of grief and the difficult process of adapting to loss,1
+209,a tv style murder mystery with a few big screen moments lrb including one that seems to be made for a different film altogether rrb,1
+210,the end result is a film that is neither,1
+211,scorsese does nt give us a character worth giving a damn about,1
+212,an artful intelligent film that stays within the confines of a wellestablished genre,4
+213,makes for a pretty unpleasant viewing experience,0
+214,pretension in its own way is a form of bravery,2
+215,travels a fascinating arc from hope and euphoria to reality and disillusionment,3
+216,like the chelsea s denizens burdette s collageform scenario tends to overromanticize the spiritual desolation of the struggling artiste,2
+217,altogether this is successful as a film while at the same time being a most touching reconsideration of the familiar masterpiece,4
+218,an otherwise intense twistandturn thriller that certainly should nt hurt talented young gaghan s resume,3
+219,the story and structure are wellhoned,3
+220,it will not appeal to the impatient but those who like long books and movies will admire the way it accumulates power and depth,2
+221,has a lot of the virtues of eastwood at his best,3
+222,do nt be fooled by the impressive cast list eye see you is pure junk,0
+223,do not see this film,1
+224,a fast funny highly enjoyable movie,4
+225,this tenth feature is a big deal indeed at least the thirdbest and maybe even a notch above the previous runnerup nicholas meyer s star trek vi the undiscovered country,3
+226,a rewarding work of art for only the most patient and challengehungry moviegoers,3
+227,due to some script weaknesses and the casting of the director s brother the film trails off into inconsequentiality,1
+228,a bythenumbers effort that wo nt do much to enhance the franchise,1
+229,enormously entertaining for moviegoers of any age,4
+230,thanks to scott s charismatic roger and eisenberg s sweet nephew roger dodger is one of the most compelling variations on in the company of men,4
+231,richard gere and diane lane put in fine performances as does french actor oliver martinez,3
+232,immersing us in the endlessly inventive fiercely competitive world of hiphop djs the project is sensational and revelatory even if scratching makes you itch,3
+233,a pleasant enough romance with intellectual underpinnings the kind of movie that entertains even as it turns maddeningly predictable,3
+234,this movie is a snow emergency,2
+235,an important movie a reminder of the power of film to move us and to make us examine our values,4
+236,griffiths proves she is that rare luminary who continually raises the standard of her profession,4
+237,christina ricci comedy about sympathy hypocrisy and love is a misfire,2
+238,an entertaining colorful actionfilled crime story with an intimate heart,3
+239,and that is a big part of why we go to the movies,3
+240,while the script starts promisingly it loses steam towards the middle and never really develops beyond attacking obvious target,2
+241,it is a scathing portrayal,2
+242,the movie achieves as great an impact by keeping these thoughts hidden as lrb quills rrb did by showing them,3
+243,the film s welcome breeziness and some unbelievably hilarious moments most portraying the idiocy of the film industry make it mostly worth the trip,4
+244,it takes a strange kind of laziness to waste the talents of robert forster anne meara eugene levy and reginald veljohnson all in the same movie,0
+245,historical dramas fused with love triangle is a well worn conceit,2
+246,a rarity among recent iranian films it is a comedy full of gentle humor that chides the absurdity of its protagonist s plight,4
+247,while there is something intrinsically funny about sir anthony hopkins saying get in the car bitch this jerry bruckheimer production has little else to offer,3
+248,if your taste runs to difficult films you absolutely ca nt miss it,3
+249,the film s tone and pacing are off almost from the getgo,1
+250,the cold turkey would have been a far better title,1
+251,it does nothing new with the old story except to show fisticuffs in this sort of stopgo slow motion that makes the gang rumbles look like they are being streamed over a 28k modem,1
+252,two hours fly by opera s a pleasure when you do nt have to endure intermissions and even a novice to the form comes away exhilarated,4
+253,hit and miss as far as the comedy goes and a big ole miss in the way of story,1
+254,mcconaughey s fun to watch the dragons are okay not much fire in the script,3
+255,a gorgeous highspirited musical from india that exquisitely blends music dance song and high drama,4
+256,looks and feels like a project better suited for the small screen,1
+257,inside the film s conflictpowered plot there is a decent moral trying to get out but it is not that it is the tension that keeps you in your seat,3
+258,its story may be a thousand years old but why did it have to seem like it took another thousand to tell it to us,1
+259,the best film about baseball to hit theaters since field of dreams,4
+260,the vitality of the actors keeps the intensity of the film high even as the strafings blend together,3
+261,the film may appear naked in its narrative form but it goes deeper than that to fundamental choices that include the complexity of the catholic doctrine,3
+262,there are simply too many ideas floating around part farce part sliding doors part pop video and yet failing to exploit them,1
+263,overall very good for what it is trying to do,3
+264,it haunts horrifies startles and fascinates it is impossible to look away,4
+265,sacrifices the value of its wealth of archival footage with its lessthanobjective stance,1
+266,it showcases carvey s talent for voices but not nearly enough and not without taxing every drop of one s patience to get to the good stuff,1
+267,escaping the studio piccoli is warmly affecting and so is this adroitly minimalist movie,3
+268,the most compelling wiseman epic of recent years,4
+269,sam mendes has become valedictorian at the school for soft landings and easy ways out,1
+270,entertains by providing good lively company,3
+271,just embarrassment and a vague sense of shame,0
+272,it is a much more emotional journey than what shyamalan has given us in his past two movies and gibson stepping in for bruce willis is the perfect actor to take us on the trip,3
+273,it is of the quality of a lesser harrison ford movie six days seven nights maybe or that dreadful sabrina remake,1
+274,there is nt nearly enough fun here despite the presence of some appealing ingredients,1
+275,it takes talent to make a lifeless movie about the most heinous man who ever lived,1
+276,even film silliness needs a little gravity beyond good hair and humping,2
+277,impostor has a handful of thrilling moments and a couple of good performances but the movie does nt quite fly,1
+278,preaches to two completely different choirs at the same time which is a pretty amazing accomplishment,4
+279,there are plot holes big enough for shamu the killer whale to swim through,0
+280,it takes a certain kind of horror movie to qualify as worse than expected but ghost ship somehow manages to do exactly that,0
+281,manages to transcend the sex drugs and showtunes plot into something far richer,4
+282,a smart witty followup,4
+283,it is not the ultimate depressionera gangster movie,1
+284,for all its impressive craftsmanship and despite an overbearing series of thirdact crescendos lily chouchou never really builds up a head of emotional steam,1
+285,anchored by friel and williams s exceptional performances the film s power lies in its complexity,4
+286,without nonstop techno or the existential overtones of a kieslowski morality tale maelstrm is just another winter sleepers,1
+287,the film tries too hard to be funny and tries too hard to be hip,1
+288,it just may inspire a few younger moviegoers to read stevenson s book which is a treasure in and of itself,3
+289,turns potentially forgettable formula into something strangely diverting,3
+290,it is also clearly great fun,4
+291,oscar wilde s masterpiece the importance of being earnest may be the best play of the 19th century,3
+292,it is like watching a nightmare made flesh,0
+293,forced familiar and thoroughly condescending,1
+294,it is hard to like a film about a guy who is utterly unlikeable and shiner starring michael caine as an aging british boxing promoter desperate for a taste of fame and fortune is certainly that,1
+295,the mesmerizing performances of the leads keep the film grounded and keep the audience riveted,4
+296,belongs to daniel daylewis as much as it belongs to martin scorsese it is a memorable performance in a big brassy disturbing unusual and highly successful film,4
+297,if the first men in black was money the second is small change,0
+298,writerdirector mark romanek spotlights the underlying caste system in america,2
+299,for the most part stevens glides through on some solid performances and witty dialogue,3
+300,there is something with potential here but the movie decides like lavinia to go the conservative route,2
+301,viewers of the ring are more likely to remember the haunting images than the plot holes,2
+302,it is another video movie photographed like a film with the bad lighting that is often written off as indie film naturalism,1
+303,it is somewhat clumsy and too lethargically paced but its story about a mysterious creature with psychic abilities offers a solid buildup a terrific climax and some nice chills along the way,1
+304,looking aristocratic luminous yet careworn in jane hamilton s exemplary costumes rampling gives a performance that could not be improved upon,4
+305,thekids will probably stay amused at the kaleidoscope of big colorful characters,3
+306,i do nt mind having my heartstrings pulled but do nt treat me like a fool,1
+307,if you are in the mood for a bollywood film here s one for you,2
+308,dilbert without the righton satiric humor,2
+309,an exquisitely crafted and acted tale,4
+310,skins has a right to yawp and we have a right to our grains of salt,2
+311,has a long and clunky ending which forces the audience to fidget through ten pseudoserious minutes while waiting for the ending credits and the deleted scenes montage to break the audience s awkward silence,2
+312,the techno tux is good for a few laughs as are chan and hewitt but when such a good design turns out to be a cheap knockoff we ca nt recommend anything but a rental for the tuxedo,2
+313,not since tom cruise in risky business has an actor made such a strong impression in his underwear,3
+314,or doing last year s taxes with your exwife,1
+315,scooby dooby doo and shaggy too you both look and sound great,3
+316,may be far from the best of the series but it is assured wonderfully respectful of its past and thrilling enough to make it abundantly clear that this movie phenomenon has once again reinvented itself for a new generation,3
+317,one of those energetic surprises an original that pleases almost everyone who sees it,4
+318,does nt offer much besides glib soullessness raunchy language and a series of brutal set pieces that raise the bar on stylized screen violence,1
+319,the inhospitability of the land emphasizes the spare precision of the narratives and helps to give them an atavistic power as if they were tales that had been handed down since the beginning of time,2
+320,movie fans get ready to take off the other direction,1
+321,even in this lessthanmagic kingdom reese rules,2
+322,not only unfunny but downright repellent,0
+323,for the most part it is a work of incendiary genius steering clear of kneejerk reactions and quick solutions,4
+324,seldom has a movie so closely matched the spirit of a man and his work,4
+325,you will gasp appalled and laugh outraged and possibly watching the spectacle of a promising young lad treading desperately in a nasty sea shed an errant tear,3
+326,comes off like a rejected abc afterschool special freshened up by the dunce of a screenwriting 101 class,0
+327,this flick is about as cool and crowdpleasing as a documentary can get,4
+328,ramsay as in ratcatcher remains a filmmaker with an acid viewpoint and a real gift for teasing chilly poetry out of lives and settings that might otherwise seem drab and sordid,3
+329,if there is one thing this world needs less of it is movies about college that are written and directed by people who could nt pass an entrance exam,0
+330,director of photography benoit delhomme shot the movie in delicious colors and the costumes and sets are grand,4
+331,is not easy,2
+332,instead he shows them the respect they are due,4
+333,plot holes so large and obvious a marching band might as well be stomping through them in clown clothes playing a college football fight song on untuned instruments,0
+334,the documentary does little apart from raising the topic to further stoke the conversation,2
+335,a quiet treasure a film to be savored,4
+336,warm water under a red bridge is a quirky and poignant japanese film that explores the fascinating connections between women water nature and sexuality,4
+337,it is the sheer selfish woundlicking barscrapping doggedness of leon s struggle to face and transmute his demons that makes the movie a spirited and touching occasion despite its patchy construction,2
+338,a beautifully made piece of unwatchable drivel,2
+339,it is too selfimportant and plodding to be funny and too clipped and abbreviated to be an epic,1
+340,few films capture so perfectly the hopes and dreams of little boys on baseball fields as well as the grown men who sit in the stands,4
+341,the lower your expectations the more you will enjoy it,1
+342,this is it,2
+343,yes dull,0
+344,that is pure pr hype,1
+345,it is great summer fun to watch arnold and his buddy gerald bounce off a quirky cast of characters,3
+346,a subtle and wellcrafted lrb for the most part rrb chiller,3
+347,that is a compliment to kuras and miller,3
+348,if this disposable tissue has one wild card it is john turturro who is simply fab as a spanish butler with a foot fetish,2
+349,if it is seldom boring well it is also rarely coherent,2
+350,one of the more intelligent children s movies to hit theaters this year,4
+351,for the most part director annesophie birot s first feature is a sensitive extraordinarily wellacted drama,4
+352,it is a beautiful madness,3
+353,stealing harvard is evidence that the farrelly bros peter and bobby and their brand of screen comedy are wheezing to an end along with green s halfhearted movie career,0
+354,i sympathize with the plight of these families but the movie does nt do a very good job conveying the issue at hand,1
+355,harland williams is so funny in drag he should consider permanent sexreassignment,2
+356,the movie could have been made 40 years ago and parents appreciation of it may depend on whether they consider that a good thing,2
+357,a giggleinducing comedy with snappy dialogue and winning performances by an unlikely team of oscarwinners susan sarandon and goldie hawn,3
+358,the words frankly my dear i do nt give a damn have never been more appropriate,0
+359,by getting myself wrapped up in the visuals and eccentricities of many of the characters i found myself confused when it came time to get to the heart of the movie,1
+360,his healthy sense of satire is light and fun,3
+361,a grimly competent and stolid and earnest military courtroom drama,3
+362,a for creativity but comes across more as a sketch for a fulllength comedy,2
+363,it moves quickly adroitly and without fuss it does nt give you time to reflect on the inanity and the cold war datedness of its premise,3
+364,part low rent godfather,1
+365,or emptying rat traps,1
+366,the special effects and many scenes of weightlessness look as good or better than in the original while the oscarwinning sound and james horner s rousing score make good use of the hefty audio system,3
+367,under 15,2
+368,on the heels of the ring comes a similarly morose and humorless horror movie that although flawed is to be commended for its straightahead approach to creepiness,3
+369,harris commands the screen using his frailty to suggest the ravages of a life of corruption and ruthlessness,3
+370,it is a trifle of a movie with a few laughs surrounding an unremarkable soft center,2
+371,schaeffer has to find some hook on which to hang his persistently useless movies and it might as well be the resuscitation of the middleaged character,1
+372,offers much to enjoy and a lot to mull over in terms of love loyalty and the nature of staying friends,3
+373,in execution this clever idea is far less funny than the original killers from space,1
+374,adults will wish the movie were less simplistic obvious clumsily plotted and shallowly characterized,1
+375,so unassuming and pure of heart you ca nt help but warmly extend your arms and yell safe,3
+376,walter hill s pulpy stylized boxing melodrama undisputed nearly overcomes its questionable inthering matchup with solid fight choreography and gritty prison authenticity,2
+377,full of witless jokes dealing in broad stereotypes and outrageously unbelievable scenarios and saddled with a general air of misogyny,2
+378,professionally speaking it is tempting to jump ship in january to avoid ridiculous schlock like this shoddy suspense thriller,0
+379,this is not the undisputed worst boxing movie ever but it is certainly not a champion the big loser is the audience,0
+380,it is another stale killbynumbers flick complete with bladethin characters and terrible punladen dialogue,1
+381,one of those pictures whose promising if rather precious premise is undercut by amateurish execution,1
+382,nothing s at stake just a twisty doublecross you can smell a mile away still the derivative nine queens is lots of fun,3
+383,it is not without its pleasures but i will stick with the tune,2
+384,drops you into a dizzying volatile pressurecooker of a situation that quickly snowballs out of control while focusing on the what much more than the why,3
+385,a muckraking job the cinematic equivalent of a legal indictment and a fairly effective one at that,2
+386,while undisputed is nt exactly a high it is a gripping tidy little movie that takes mr hill higher than he is been in a while,3
+387,a delectable and intriguing thriller filled with surprises read my lips is an original,4
+388,it does nt believe in itself it has no sense of humor it is just plain bored,0
+389,it seems to me the film is about the art of ripping people off without ever letting them consciously know you have done so,1
+390,jacquot s rendering of puccini s tale of devotion and doublecross is more than just a filmed opera,2
+391,the story and the friendship proceeds in such a way that you are watching a soap opera rather than a chronicle of the ups and downs that accompany lifelong friendships,1
+392,a warm funny engaging film,4
+393,uses sharp humor and insight into human nature to examine class conflict adolescent yearning the roots of friendship and sexual identity,4
+394,i thought my own watch had stopped keeping time as i slogged my way through clockstoppers,1
+395,lrb serry rrb wants to blend politics and drama an admirable ambition,3
+396,with tightly organized efficiency numerous flashbacks and a constant edge of tension miller s film is one of 2002 s involvingly adult surprises,3
+397,the emotions are raw and will strike a nerve with anyone who is ever had family trauma,3
+398,there seems to be no clear path as to where the story s going or how long it is going to take to get there,1
+399,aside from minor tinkering this is the same movie you probably loved in 1994 except that it looks even better,3
+400,by candidly detailing the politics involved in the creation of an extraordinary piece of music lrb jones rrb calls our attention to the inherent conflict between commerce and creativity,3
+401,a breezy romantic comedy that has the punch of a good sitcom while offering exceptionally welldetailed characters,4
+402,because of an unnecessary and clumsy last scene swimfan left me with a very bad feeling,1
+403,there is a solid woman findingherself story somewhere in here but you would have to dig pretty deep to uncover it,2
+404,exciting and direct with ghost imagery that shows just enough to keep us on our toes,3
+405,a superbly acted and funnygritty fable of the humanizing of one woman at the hands of the unseen forces of fate,3
+406,the movie s relatively simple plot and uncomplicated morality play well with the affable cast,3
+407,it is basically an overlong episode of tales from the crypt,2
+408,in a way the film feels like a breath of fresh air but only to those that allow it in,4
+409,green might want to hang onto that ski mask as robbery may be the only way to pay for his next project,0
+410,the sociohistopolitical treatise is told in earnest strides lrb and rrb personal illusion is deconstructed with poignancy,3
+411,a beguiling splash of pastel colors and prankish comedy from disney,4
+412,writerdirector joe carnahan s grimy crime drama is a manual of precinct cliches but it moves fast enough to cover its clunky dialogue and lapses in logic,3
+413,too restrained to be a freak show too mercenary and obvious to be cerebral too dull and pretentious to be engaging the isle defies an easy categorization,1
+414,based on a devilishly witty script by heather mcgowan and niels mueller the film gets great laughs but never at the expense of its characters,4
+415,the format gets used best to capture the dizzying heights achieved by motocross and bmx riders whose balletic hotdogging occasionally ends in bonecrushing screwups,3
+416,even in its most tedious scenes russian ark is mesmerizing,3
+417,this surreal gilliamesque film is also a troubling interpretation of ecclesiastes,3
+418,you wonder why enough was nt just a music video rather than a fulllength movie,1
+419,funny but perilously slight,3
+420,chabrol has taken promising material for a black comedy and turned it instead into a somber chamber drama,1
+421,in the end we are left with something like two ships passing in the night rather than any insights into gay love chinese society or the price one pays for being dishonest,1
+422,makes even the claustrophobic onboard quarters seem fun,2
+423,this is wild surreal stuff but brilliant and the camera just kind of sits there and lets you look at this and its like you are going from one room to the next and none of them have any relation to the other,4
+424,while it regards 1967 as the key turning point of the 20th century and returns again and again to images of dissidents in the streets it is alarmingly current,2
+425,fresnadillo s dark and jolting images have a way of plying into your subconscious like the nightmare you had a week ago that wo nt go away,3
+426,easily my choice for one of the year s best films,4
+427,pumpkin takes an admirable look at the hypocrisy of political correctness but it does so with such an uneven tone that you never know when humor ends and tragedy begins,1
+428,candid camera on methamphetamines,2
+429,it is so mediocre despite the dynamic duo on the marquee that we just ca nt get no satisfaction,1
+430,but it is too long and too convoluted and it ends in a muddle,0
+431,in spite of good housekeeping s unsavory characters and wwf mentality this white trash war of the roses is a surprisingly engaging film,2
+432,more maudlin than sharp,2
+433,no aspirations to social import inform the movie version,1
+434,outerspace buffs might love this film but others will find its pleasures intermittent,1
+435,rarely has so much money delivered so little entertainment,1
+436,van wilder does nt bring anything new to the proverbial table but it does possess a coherence absent in recent crassathons like tomcats freddy got fingered and slackers,2
+437,so too is this comedy about mild culture clashing in today s new delhi,3
+438,a subject like this should inspire reaction in its audience the pianist does not,1
+439,routine harmless diversion and little else,3
+440,not really bad so much as distasteful we need kidnapping suspense dramas right now like we need doomsday thrillers,1
+441,blanchett s performance confirms her power once again,4
+442,this is nothing but familiar territory,2
+443,this is a winning ensemble comedy that shows canadians can put gentle laughs and equally gentle sentiments on the button just as easily as their counterparts anywhere else in the world,4
+444,it ca nt decide if it wants to be a mysterythriller a romance or a comedy,1
+445,while the ideas about technosaturation are far from novel they are presented with a wry dark humor,4
+446,the iditarod lasts for days this just felt like it did,0
+447,a warm but realistic meditation on friendship family and affection,4
+448,the volatile dynamics of female friendship is the subject of this unhurried lowkey film that is so offhollywood that it seems positively french in its rhythms and resonance,3
+449,this movie is something of an impostor itself stretching and padding its material in a blur of dead ends and distracting camera work,0
+450,it can not be enjoyed even on the level that one enjoys a bad slasher flick primarily because it is dull,0
+451,sticky sweet sentimentality clumsy plotting and a rosily myopic view of life in the wwiiera mississippi delta undermine this adaptation,0
+452,a film about a young man finding god that is accessible and touching to the marrow,3
+453,nonsensical dull cyberhorror flick is a grim hollow exercise in flat scares and bad acting,0
+454,although the level of the comedy declines as the movie proceeds there is no denying the fun of watching de niro and crystal having fun,2
+455,it is hard to imagine alan arkin being better than he is in this performance,3
+456,it proves quite compelling as an intense brooding character study,3
+457,a romantic comedy enriched by a sharp eye for manners and mores,4
+458,a touch of humor or an unexpected plot twist always pulls it back,2
+459,nothing in waking up in reno ever inspired me to think of its inhabitants as anything more than markers in a screenplay,0
+460,not since japanese filmmaker akira kurosawa s ran have the savagery of combat and the specter of death been visualized with such operatic grandeur,4
+461,though only 60 minutes long the film is packed with information and impressions,3
+462,the character of zigzag is not sufficiently developed to support a film constructed around him,1
+463,although occasionally static to the point of resembling a stage play the film delivers a solid mixture of sweetness and laughs,2
+464,hoffman notches in the nuances of pain but his smart edgy voice and waddling profile lrb emphasized here rrb accent the humor of wilson s plight and that saves his pathos from drippiness,2
+465,reggio s continual visual barrage is absorbing as well as thoughtprovoking,3
+466,about a mangalike heroine who fights back at her abusers it is energetic and satisfying if not deep and psychological,3
+467,too much of it feels unfocused and underdeveloped,0
+468,roger michell lrb notting hill rrb directs a morality thriller,2
+469,unfortunately it is not silly fun unless you enjoy really bad movies,0
+470,the movie understands like few others how the depth and breadth of emotional intimacy give the physical act all of its meaning and most of its pleasure,4
+471,in the end the movie collapses on its shaky foundation despite the best efforts of director joe carnahan,0
+472,cq s reflection of artists and the love of cinemaandself suggests nothing less than a new voice that deserves to be considered as a possible successor to the best european directors,3
+473,jones does offer a brutal form of charisma,3
+474,it provides an honest look at a community striving to anchor itself in new grounds,3
+475,not an objectionable or dull film it merely lacks everything except good intentions,0
+476,it is mighty tedious for the viewer who has to contend with unpleasant characters hitandmiss performances and awkwardly staged scenes,2
+477,this is a good script good dialogue funny even for adults,4
+478,the lion king was a roaring success when it was released eight years ago but on imax it seems better not just bigger,3
+479,kinnear does nt aim for our sympathy but rather delivers a performance of striking skill and depth,3
+480,is the time really ripe for a warmedover james bond adventure with a village idiot as the 007 clone,1
+481,winceinducing dialogue thriftshop costumes prosthetic makeup by silly putty and kmart bluelightspecial effects all conspire to test trekkie loyalty,0
+482,this is a train wreck of an action film a stupefying attempt by the filmmakers to forcefeed james bond into the mindless xxx mold and throw 40 years of cinematic history down the toilet in favor of bright flashes and loud bangs,1
+483,you really have to wonder how on earth anyone anywhere could have thought they would make audiences guffaw with a script as utterly diabolical as this,0
+484,a quiet pure elliptical film,3
+485,harrison s flowers puts its heart in the right place but its brains are in no particular place at all,3
+486,it is a work by an artist so in control of both his medium and his message that he can improvise like a jazzman,3
+487,no screen fantasyadventure in recent memory has the showmanship of clones last 45 minutes,4
+488,despite the evocative aesthetics evincing the hollow state of modern love life the film never percolates beyond a monotonous whine,1
+489,it is difficult to imagine the process that produced such a script but here s guessing that spray cheese and underarm noises played a crucial role,0
+490,building slowly and subtly the film sporting a breezy spontaneity and realistically drawn characterizations develops into a significant character study that is both moving and wise,3
+491,overall the film feels like a lowbudget tv pilot that could not find a buyer to play it on the tube,1
+492,it is hard to know whether or not to recommend this film because for every thing it does right there is at least one and occasionally two things it gets ever so wrong,2
+493,this is human comedy at its most amusing interesting and confirming,3
+494,the band s courage in the face of official repression is inspiring especially for aging hippies lrb this one included rrb,3
+495,this movie seems to have been written using madlibs,1
+496,thanks to haynes absolute control of the film s mood and buoyed by three terrific performances far from heaven actually pulls off this stylistic juggling act,3
+497,more whiny downer than corruscating commentary,1
+498,beneath clouds is a succinct lowbudget film whose compelling characters and intelligent script are exactly what was missing from rabbitproof fence,2
+499,a movie that hovers somewhere between an acute character study and a trite power struggle,2
+500,the film is powerful accessible and funny,4
+501,a good piece of work more often than not,3
+502,there has always been something likable about the marquis de sade,3
+503,in exactly 89 minutes most of which passed as slowly as if i would been sitting naked on an igloo formula 51 sank from quirky to jerky to utter turkey,0
+504,care deftly captures the wonder and menace of growing up but he never really embraces the joy of fuhrman s destructive escapism or the graceinrebellion found by his characters,1
+505,the reality of the new liveaction pinocchio he directed cowrote and starred in borders on the grotesque,1
+506,the chateau cleverly probes the crosscultural differences between gauls and yanks,3
+507,i can take infantile humor but this is the sort of infantile that makes you wonder about changing the director and writer s diapers,1
+508,the film suffers from a lack of humor lrb something needed to balance out the violence rrb,1
+509,a working class us vs them opera that leaves no heartstring untugged and no liberal cause unplundered,3
+510,so refreshingly incisive is grant that for the first time he will probably appeal more to guys than to their girlfriends who drag them to this movie for the hugh factor,3
+511,with the exception of some fleetingly amusing improvisations by cedric the entertainer as perry s boss there is nt a redeeming moment here,0
+512,but is that knot from dramatic tension or a symptom of artistic malnutrition,2
+513,majidi is an unconventional storyteller capable of finding beauty in the most depressing places,3
+514,if you have ever wondered what an ending without the input of studio executives or test audiences would look like here it is,2
+515,the vivid lead performances sustain interest and empathy but the journey is far more interesting than the final destination,3
+516,martin and barbara are complex characters sometimes tender sometimes angry and the delicate performances by sven wollter and viveka seldahl make their hopes and frustrations vivid,4
+517,all that is missing is the spontaneity originality and delight,1
+518,it has the ability to offend and put off everyone but it holds you with its outrageousness,2
+519,it confirms fincher s status as a film maker who artfully bends technical knowhow to the service of psychological insight,4
+520,this is as respectful a film as byatt fans could hope for though lovers of the book may wonder why it is necessary,2
+521,dense with characters and contains some thrilling moments,3
+522,if this story must be told and retold and indeed it must then the grey zone is to be lauded for finding a new and ingenious angle,2
+523,good film but very glum,3
+524,nine queens is not only than a frighteningly capable debut and genre piece but also a snapshot of a dangerous political situation on the verge of coming to a head,4
+525,when the film ended i felt tired and drained and wanted to lie on my own deathbed for a while,0
+526,the plot convolutions ultimately add up to nothing more than jerking the audience s chain,0
+527,a solid examination of the male midlife crisis,3
+528,lrb d rrb oes nt bother being as cloying or preachy as equivalent evangelical christian movies maybe the filmmakers know that the likely audience will already be among the faithful,3
+529,it is a comingofage story we have all seen bits of in other films but it is rarely been told with such affecting grace and cultural specificity,2
+530,an appealingly juvenile trifle that delivers its share of laughs and smiles,2
+531,lrb grant s rrb bumbling magic takes over the film and it turns out to be another winning star vehicle,3
+532,they takes a long time to get to its gaspinducing ending,2
+533,a poignant and compelling story about relationships food of love takes us on a bumpy but satisfying journey of the heart,4
+534,a better title for all concerned might be swept under the rug,1
+535,a morose little soap opera about three vapid insensitive people who take turns hurting each other,2
+536,this nickleby thing might have more homosexual undertones than an eddie murphy film,1
+537,a marvel like none you have seen,3
+538,the affectionate loopiness that once seemed congenital to demme s perspective has a tough time emerging from between the badly dated cutesypie mystery scenario and the newfangled hollywood postproduction effects,0
+539,leigh s film is full of memorable performances from top to bottom,4
+540,manages to be sweet and wickedly satisfying at the same time,4
+541,the film will play equally well on both the standard and giant screens,3
+542,determined to be fun and bouncy with energetic musicals the humor did nt quite engage this adult,1
+543,the last 20 minutes are somewhat redeeming but most of the movie is the same teenage american roadtrip drek we have seen before only this time you have to read the fart jokes,1
+544,whether you like rap music or loathe it you ca nt deny either the tragic loss of two young men in the prime of their talent or the power of this movie,3
+545,allinall the film is an enjoyable and frankly told tale of a people who live among us but not necessarily with us,3
+546,feature debuter dj caruso directs a crack ensemble cast bringing screenwriter tony gayton s narcotics noir to life,4
+547,serving sara does nt serve up a whole lot of laughs,1
+548,ah yes and then there is the music,2
+549,my reaction in a word disappointment,0
+550,the film s hackneyed message is not helped by the thin characterizations nonexistent plot and pretentious visual style,0
+551,star trek nemesis meekly goes where nearly every star trek movie has gone before,2
+552,very psychoanalytical provocatively so and also refreshingly literary,3
+553,the experience of going to a film festival is a rewarding one the experiencing of sampling one through this movie is not,0
+554,with rabbitproof fence noyce has tailored an epic tale into a lean economical movie,3
+555,a stunning and overwhelmingly cogent case for kissinger as a calculating war criminal,2
+556,even horror fans will most likely not find what they are seeking with trouble every day the movie lacks both thrills and humor,0
+557,this piece of channel 5 grade trash is quite frankly an insult to the intelligence of the true genre enthusiast,0
+558,the messages of compassion and mercy are clearly squarely and specifically expounded via computer animated old testament tale of jonah and the whale,2
+559,add yet another hat to a talented head clooney s a good director,4
+560,as unseemly as its title suggests,3
+561,the movie is nt just hilarious it is witty and inventive too and in hindsight it is nt even all that dumb,4
+562,among the year s most intriguing explorations of alientation,4
+563,the sort of film that makes me miss hitchcock but also feel optimistic that there is hope for popular cinema yet,3
+564,the primitive force of this film seems to bubble up from the vast collective memory of the combatants,3
+565,the terrific and bewilderingly underrated campbell scott gives a star performance that is nothing short of mesmerizing,4
+566,and if you are not nearly moved to tears by a couple of scenes you have got ice water in your veins,3
+567,a lean deftly shot wellacted weirdly retro thriller that recalls a raft of 60s and 70s europeanset spy pictures,4
+568,the magic of the film lies not in the mysterious spring but in the richness of its performances,3
+569,lrb lawrence bounces rrb all over the stage dancing running sweating mopping his face and generally displaying the wacky talent that brought him fame in the first place,3
+570,what distinguishes time of favor from countless other thrillers is its underlying concern with the consequences of words and with the complicated emotions fueling terrorist acts,3
+571,crackerjack entertainment nonstop romance music suspense and action,4
+572,with its dogged hollywood naturalism and the inexorable passage of its characters toward sainthood windtalkers is nothing but a stickysweet soap,1
+573,in its best moments resembles a bad high school production of grease without benefit of song,0
+574,designed to provide a mix of smiles and tears crossroads instead provokes a handful of unintentional howlers and numerous yawns,1
+575,as befits its title this pg13rated piffle is ultimately as threatening as the snuggle fabric softener bear,2
+576,worth watching for dong jie s performance and for the way it documents a culture in the throes of rapid change,3
+577,if you are an actor who can relate to the search for inner peace by dramatically depicting the lives of others onstage then esther s story is a compelling quest for truth,3
+578,unlike the speedy whambam effect of most hollywood offerings character development and more importantly character empathy is at the heart of italian for beginners,4
+579,stultifyingly dumbfoundingly mindnumbingly bad,0
+580,mostly martha is a bright light modern day family parable that wears its heart on its sleeve for all to see,4
+581,no telegraphing is too obvious or simplistic for this movie,1
+582,a workshop mentality prevails,2
+583,this remake gets all there is to get out of a peculiar premise with promise al pacino loathing robin williams,2
+584,writerdirector s mehta s effort has tons of charm and the whimsy is in the mixture the intoxicating masala of cultures and film genres,4
+585,takes the beauty of baseball and melds it with a story that could touch anyone regardless of their familiarity with the sport,3
+586,one of the smartest takes on singles culture i have seen in a long time,4
+587,it is not original and robbed of the element of surprise it does nt have any huge laughs in its story of irresponsible cops who love to play pranks,1
+588,this redo is so dumb and so exploitative in its violence that ironically it becomes everything that the rather clumsy original was railing against,0
+589,to call the other side of heaven appalling would be to underestimate just how dangerous entertainments like it can be,1
+590,the actors are appealing but elysian fields is idiotic and absurdly sentimental,2
+591,it has charm to spare and unlike many romantic comedies it does not alienate either gender in the audience,3
+592,a great ensemble cast ca nt lift this heartfelt enterprise out of the familiar,0
+593,lapaglia s ability to convey grief and hope works with weaver s sensitive reactions to make this a twoactor master class,3
+594,my thoughts were focused on the characters,3
+595,it is slow very very slow,0
+596,though it is become almost redundant to say so major kudos go to leigh for actually casting people who look workingclass,3
+597,should have been someone else,1
+598,it is so good that its relentless polished wit can withstand not only inept school productions but even oliver parker s movie adaptation,3
+599,it feels like an afterschool special gussied up with some fancy special effects and watching its rote plot points connect is about as exciting as gazing at an egg timer for 93 minutes,0
+600,indifferently implausible popcorn programmer of a movie,1
+601,even the finest chef ca nt make a hotdog into anything more than a hotdog and robert de niro ca nt make this movie anything more than a trashy cop buddy comedy,1
+602,it is fascinating to see how bettany and mcdowell play off each other,3
+603,teen movies have really hit the skids,1
+604,i felt sad for lise not so much because of what happens as because she was captured by this movie when she obviously belongs in something lighter and sunnier by rohmer for example,2
+605,stephen rea aidan quinn and alan bates play desmond s legal eagles and when joined by brosnan the sight of this grandiloquent quartet lolling in pretty irish settings is a pleasant enough thing tis,4
+606,even on those rare occasions when the narrator stops yammering miller s hand often feels unsure,1
+607,every time you look sweet home alabama is taking another bummer of a wrong turn,1
+608,it gets onto the screen just about as much of the novella as one could reasonably expect and is engrossing and moving in its own right,3
+609,i am sure if you are a hartley fan you might enjoy yourself me i did nt care for it,2
+610,a poignant artfully crafted meditation on mortality,4
+611,one of the best films of the year with its exploration of the obstacles to happiness faced by five contemporary individuals a psychological masterpiece,4
+612,no sophomore slump for director sam mendes who segues from oscar winner to oscarwinning potential with a smooth sleight of hand,4
+613,even if you do nt think lrb kissinger s rrb any more guilty of criminal activity than most contemporary statesmen he would sure make a courtroom trial great fun to watch,3
+614,a story we have nt seen on the big screen before and it is a story that we as americans and human beings should know,3
+615,irwin is a man with enough charisma and audacity to carry a dozen films but this particular result is ultimately held back from being something greater,1
+616,instead of a hyperbolic beatcharged urban western it is an unpretentious sociologically pointed slice of life,3
+617,the film s few ideas are stretched to the point of evaporation the whole central section is one big chase that seems to have no goal and no urgency,0
+618,scorsese at his best makes gangster films that are equally lovely but also relentlessly brutal and brutally intelligent perdition meanwhile reads more like driving miss daisy than goodfellas,2
+619,hey arnold,2
+620,though perry and hurley make inspiring efforts to breathe life into the disjointed haphazard script by jay scherick and david ronn neither the actors nor director reginald hudlin can make it more than fitfully entertaining,1
+621,woody allen s latest is an ambling broad comedy about all there is to love and hate about the movie biz,3
+622,it is the perfect kind of film to see when you do nt want to use your brain,2
+623,there is too much falseness to the second half and what began as an intriguing look at youth fizzles into a dull ridiculous attempt at hearttugging,1
+624,as a firsttime director paxton has tapped something in himself as an actor that provides frailty with its dark soul,3
+625,a gripping movie played with performances that are all understated and touching,4
+626,too slow too long and too little happens,1
+627,plays like a volatile and overlong w magazine fashion spread,1
+628,at all,2
+629,there can be no other explanation,2
+630,by the time we learn that andrew s turnabout is fair play is every bit as awful as borchardt s coven we can enjoy it anyway,2
+631,attempts by this ensemble film to impart a message are so heavyhanded that they instead pummel the audience,1
+632,it is a demented kitsch mess lrb although the smeary digital video does match the muddled narrative rrb but it is savvy about celebrity and has more guts and energy than much of what will open this year,3
+633,bleakly funny its characters all the more touching for refusing to pity or memorialize themselves,3
+634,it is amusing and that is all it needs to be,4
+635,what time is it there,2
+636,the characters are interesting and often very creatively constructed from figure to backstory,4
+637,a taut psychological thriller that does nt waste a moment of its twohour running time,3
+638,is an arthritic attempt at directing by callie khouri,1
+639,michael gerbosi s script is economically packed with telling scenes,4
+640,light years several warp speeds levels and levels of dilithium crystals better than the pitiful insurrection,3
+641,what was once original has been coopted so frequently that it now seems pedestrian,1
+642,at a time when half the socalled real movies are little more than liveaction cartoons it is refreshing to see a cartoon that knows what it is and knows the form s history,4
+643,at the very least if you do nt know anything about derrida when you walk into the theater you wo nt know much more when you leave,1
+644,a twisty moody slice of southern gothic,2
+645,partway through watching this saccharine eastereggcolored concoction you realize that it is made up of three episodes of a rejected tv show,0
+646,bennett s naturalistic performance speaks volumes more truth than any reality show and anybody contemplating their own drastic life changes should watch some body first,4
+647,jose campanella delivers a loosely autobiographical story brushed with sentimentality but brimming with gentle humor bittersweet pathos and lyric moments that linger like snapshots of memory,4
+648,mafia rap stars and hood rats butt their ugly heads in a regurgitation of cinematic violence that gives brutal birth to an unlikely but likable hero,3
+649,i got a headache watching this meaningless downer,0
+650,montias pumps a lot of energy into his nicely nuanced narrative and surrounds himself with a cast of quirky but not stereotyped street characters,4
+651,slapstick buffoonery can tickle many a preschooler s fancy but when it costs a family of four about 40 to see a film in theaters why spend money on a dog like this when you can rent a pedigree instead,0
+652,his comedy premises are often hackneyed or just plain crude calculated to provoke shocked laughter without following up on a deeper level,1
+653,big fat waste of time,0
+654,it is not that kung pow is nt funny some of the time it just is nt any funnier than bad martial arts movies are all by themselves without all oedekerk s impish augmentation,1
+655,it is so good that you can practically see the hollywood suits trying to put together the cast and filmmaking team for the alltoo inevitable american remake,2
+656,a delightful comingofage story,3
+657,binoche makes it interesting trying to find out,4
+658,the humor is forced and heavyhanded and occasionally simply unpleasant,1
+659,a beguiling slowmoving parable about the collision of past and present on a remote seacoast in iran,2
+660,kept aloft largely by a comically adept ensemble,2
+661,a fun little timewaster helped especially by the cool presence of jean reno,3
+662,prurient playthings aside there is little to love about this english trifle,1
+663,the oldworld meetsnew mesh is incarnated in the movie s soundtrack a joyful effusion of disco bollywood that by the end of monsoon wedding sent my spirit soaring out of the theater,4
+664,as surreal as a dream and as detailed as a photograph as visually dexterous as it is at times imaginatively overwhelming,4
+665,director uwe boll and the actors provide scant reason to care in this crude 70s throwback,1
+666,the continued good chemistry between carmen and juni is what keeps this slightly disappointing sequel going with enough amusing banter blessedly cursefree to keep both kids and parents entertained,3
+667,claude chabrol has here a thriller without thrills but that is okay,2
+668,puts a human face on a land most westerners are unfamiliar with,3
+669,unflinchingly bleak and desperate,1
+670,the heavyhanded film is almost laughable as a consequence,0
+671,like mike is nt interested in recycling old cliches,2
+672,it has the charm of the original american road movies feasting on the gorgeous ramshackle landscape of the filmmaker s motherland,3
+673,works hard to establish rounded characters but then has nothing fresh or particularly interesting to say about them,1
+674,the film s almost unbearable portrait of sadness and grief transcends its specific story to speak to the ways in which need history and presumption tangle and sometimes destroy blood ties,2
+675,no one goes unindicted here which is probably for the best,2
+676,verbinski implements every hackartist trick to give us the ookyspookies,1
+677,creepy authentic and dark,2
+678,uncommonly stylish but equally silly the picture fails to generate much suspense nor does it ask searching enough questions to justify its pretensions,1
+679,as vulgar as it is banal,1
+680,i am just too bored to care,1
+681,i had to look away this was god awful,0
+682,it uses the pain and violence of war as background material for color,2
+683,84 minutes of rolling musical back beat and supercharged cartoon warfare,2
+684,a dumb movie with dumb characters doing dumb things and you have to be really dumb not to see where this is going,1
+685,what really makes it special is that it pulls us into its world gives us a hero whose suffering and triumphs we can share surrounds him with interesting characters and sends us out of the theater feeling we have shared a great adventure,4
+686,of course by more objective measurements it is still quite bad,1
+687,for this reason and this reason only the power of its own steadfast hoitytoity convictions chelsea walls deserves a medal,3
+688,scores no points for originality wit or intelligence,0
+689,though moonlight mile is replete with acclaimed actors and actresses and tackles a subject that is potentially moving the movie is too predictable and too selfconscious to reach a level of high drama,1
+690,it is a charming and often affecting journey,4
+691,nervous breakdowns are not entertaining,1
+692,this is a story of two misfits who do nt stand a chance alone but together they are magnificent,3
+693,atom egoyan has conjured up a multilayered work that tackles any number of fascinating issues,4
+694,as the latest bid in the tvtomovie franchise game i spy makes its bigscreen entry with little of the nervy originality of its groundbreaking smallscreen progenitor,1
+695,it is one of those baseball pictures where the hero is stoic the wife is patient the kids are as cute as all getout and the odds against success are long enough to intimidate but short enough to make a dream seem possible,3
+696,no way i can believe this load of junk,0
+697,we know the plot s a little crazy but it held my interest from start to finish,3
+698,lan yu is at times too restrained yet there are moments it captures the erotics of intimacy in a way that makes most american love stories look downright unfree,2
+699,will amuse and provoke adventurous adults in specialty venues,4
+700,another one of those estrogen overdose movies like divine secrets of the ya ya sisterhood except that the writing acting and character development are a lot better,3
+701,byler reveals his characters in a way that intrigues and even fascinates us and he never reduces the situation to simple melodrama,3
+702,it is unnerving to see recoing s bizzarre reaction to his unemployment,2
+703,the humor is nt as sharp the effects not as innovative nor the story as imaginative as in the original,0
+704,instead of hiding pinocchio from critics miramax should have hidden it from everyone,0
+705,a moody multidimensional love story and scifi mystery solaris is a thoughtprovoking haunting film that allows the seeds of the imagination to germinate,4
+706,offers very little genuine romance and even fewer laughs a sad sitcom of a movie largely devoid of charm,1
+707,it haunts you you ca nt forget it you admire its conception and are able to resolve some of the confusions you had while watching it,3
+708,sometimes seems less like storytelling than something the otherwise compelling director needed to get off his chest,1
+709,as a rumor of angels reveals itself to be a sudsy tub of supernatural hokum not even ms redgrave s noblest efforts can redeem it from hopeless sentimentality,0
+710,almost gags on its own gore,0
+711,the film is quiet threatening and unforgettable,4
+712,the movie is just a plain old monster,0
+713,likely to expertly drum up repressed teenage memories in any viewer,2
+714,sustains its dreamlike glide through a succession of cheesy coincidences and voluptuous cheap effects not the least of which is rebecca romijnstamos,1
+715,displaying about equal amounts of naivet passion and talent beneath clouds establishes sen as a filmmaker of considerable potential,3
+716,it provides the grand intelligent entertainment of a superior cast playing smart people amid a compelling plot,4
+717,a strangely compelling and brilliantly acted psychological drama,4
+718,i will bet the video game is a lot more fun than the film,1
+719,every nanosecond of the the new guy reminds you that you could be doing something else far more pleasurable,1
+720,the movie s accumulated force still feels like an ugly knot tightening in your stomach,1
+721,a broad melodramatic estrogen opera that is pretty toxic in its own right,1
+722,minority report is exactly what the title indicates a report,3
+723,the movie directed by mick jackson leaves no cliche unturned from the predictable plot to the characters straight out of central casting,1
+724,like mike is a winner for kids and no doubt a winner for lil bow wow who can now add movies to the list of things he does well,4
+725,confirms the nagging suspicion that ethan hawke would be even worse behind the camera than he is in front of it,0
+726,lrb e rrb ventually every idea in this film is flushed down the latrine of heroism,1
+727,denis oneill s script avoids the prime sports cliche a lastsecond goal to win the championship but it neglects few others,2
+728,forgettable horror more gory than psychological with a highly satisfying quotient of fridaynight excitement and milla power,2
+729,this riveting world war ii moral suspense story deals with the shadow side of american culture racial prejudice in its ugly and diverse forms,1
+730,firsttime writerdirector serry shows a remarkable gift for storytelling with this moving effective little film,3
+731,while it is genuinely cool to hear characters talk about early rap records lrb sugar hill gang etc rrb the constant referencing of hiphop arcana can alienate even the savviest audiences,1
+732,lrb leigh rrb lays it on so thick this time that it feels like a suicide race,2
+733,the far future may be awesome to consider but from period detail to matters of the heart this film is most transporting when it stays put in the past,3
+734,combining quickcut editing and a blaring heavy metal much of the time beck seems to be under the illusion that he is shooting the latest system of a down video,1
+735,there is no emotional pulse to solaris,1
+736,a cheerful enough but imminently forgettable ripoff of lrb besson s rrb earlier work,2
+737,the best that can be said about the work here of scottish director ritchie is that he obviously does nt have his heart in it,1
+738,does paint some memorable images but makhmalbaf keeps her distance from the characters,3
+739,rare birds has more than enough charm to make it memorable,3
+740,the film s essentially over by the meetcute,2
+741,but its awkward structure keeps breaking the spell,2
+742,generally clockstoppers will fulfill your wildest fantasies about being a different kind of time traveler while happily killing 94 minutes,3
+743,dull lifeless and amateurishly assembled,0
+744,sometimes it feels as if it might have been made in the 70s or 80s and starred chevy chase and goldie hawn,2
+745,essentially an exceptionally wellwritten welledited welldirected wellacted bald ripoff of aliens,2
+746,the quality of the art combined with the humor and intelligence of the script allow the filmmakers to present the biblical message of forgiveness without it ever becoming preachy or syrupy,3
+747,the movie occasionally threatens to become didactic but it is too grounded in the reality of its characters to go over the edge,2
+748,very bad,0
+749,having had the good sense to cast actors who are generally speaking adored by the moviegoing public khouri then gets terrific performances from them all,4
+750,a woman s pic directed with resonance by ilya chaiken,3
+751,mr tsai is a very original artist in his medium and what time is it there,4
+752,the intent is almost exactly the same lrb as the full monty rrb,2
+753,for each chuckle there are at least 10 complete misses many coming from the amazingly lifelike tara reid whose acting skills are comparable to a cardboard cutout,1
+754,a bythenumbers patientdoctor pic that covers all the usual ground,1
+755,a lackluster unessential sequel to the classic disney adaptation of jm barrie s peter pan,0
+756,why make a documentary about these marginal historical figures,0
+757,the idea of 49yearold roberto benigni playing the wooden boy pinocchio is scary enough,2
+758,burns never really harnesses to full effect the energetic cast,1
+759,oh come on,1
+760,generally provides its target audience of youngsters enough stimulating eye and ear candy to make its moral medicine go down,2
+761,even with a green mohawk and a sheet of firered flame tattoos covering his shoulder however kilmer seems to be posing rather than acting,1
+762,its well of thorn and vinegar lrb and simple humanity rrb has long been plundered by similar works featuring the insight and punch this picture so conspicuously lacks,1
+763,the notion that bombing buildings is the funniest thing in the world goes entirely unexamined in this startlingly unfunny comedy,0
+764,at its worst it implodes in a series of very bad special effects,0
+765,and the lesson in the end is nothing new,1
+766,is this love or is it masochism,2
+767,plays like somebody spliced random moments of a chris rock routine into what is otherwise a clicheriddled but selfserious spy thriller,1
+768,a misogynistic piece of filth that attempts to pass itself off as hip young adult entertainment,0
+769,mom and dad can catch some quality naptime along the way,2
+770,slick piece of crosspromotion,3
+771,sade is an engaging look at the controversial eponymous and fiercely atheistic hero,3
+772,deliriously funny fast and loose accessible to the uninitiated and full of surprises,4
+773,a literate presentation that wonderfully weaves a murderous event in 1873 with murderous rage in 2002,4
+774,for the first time in years de niro digs deep emotionally perhaps because he is been stirred by the powerful work of his costars,3
+775,birthday girl is an amusing joy ride with some surprisingly violent moments,3
+776,a tender witty captivating film about friendship love memory trust and loyalty,4
+777,while its careful pace and seemingly opaque story may not satisfy every moviegoer s appetite the film s final scene is soaringly transparently moving,3
+778,turns so unforgivably trite in its last 10 minutes that anyone without a fortified sweet tooth will likely go into sugar shock,0
+779,we learn a lot about dying coral and see a lot of life on the reef,2
+780,excessive profane packed with cartoonish violence and comicstrip characters,1
+781,if you are hard up for raunchy college humor this is your ticket right here,3
+782,davis is so enamored of her own creation that she ca nt see how insufferable the character is,1
+783,it is great escapist fun that recreates a place and time that will never happen again,3
+784,dazzles with its fullywritten characters its determined stylishness lrb which always relates to characters and story rrb and johnny dankworth s best soundtrack in years,4
+785,highbrow selfappointed guardians of culture need not apply but those who loved cool as ice have at last found a worthy followup,3
+786,once lrb kim rrb begins to overplay the shock tactics and baitandtackle metaphors you may decide it is too high a price to pay for a shimmering picture postcard,1
+787,lrb t rrb his beguiling belgian fable very much its own droll and delicate little film has some touching things to say about what is important in life and why,3
+788,simplistic fluffball of whimsy,2
+789,too often the viewer is nt reacting to humor so much as they are wincing back in repugnance,0
+790,it is refreshing to see a girlpower movie that does nt feel it has to prove anything,4
+791,bogdanovich tantalizes by offering a peep show into the lives of the era s creme de la celluloid,3
+792,it is a cookiecutter movie a cutandpaste job,1
+793,it is a grab bag of genres that do nt add up to a whole lot of sense,1
+794,fun flip and terribly hip bit of cinematic entertainment,3
+795,hey arnold,2
+796,just one bad idea after another,1
+797,it is a lovely film with lovely performances by buy and accorsi,3
+798,the script kicks in and mr hartley s distended pace and footdragging rhythms follow,1
+799,this is her blue lagoon,2
+800,does little more than play an innocuous game of fillin theblanks with a tragic past,1
+801,a hamfisted romantic comedy that makes our girl the hapless facilitator of an extended cheap shot across the masondixon line,1
+802,like watching a dress rehearsal the week before the show goes up everything s in place but something s just a little offkilter,1
+803,remember the kind of movie we were hoping ecks vs sever or xxx was going to be,2
+804,it is a buggy drag,1
+805,yakusho and shimizu create engaging characterizations in imamura s lively and enjoyable cultural mix,4
+806,it is a bad thing when a movie has about as much substance as its end credits blooper reel,0
+807,i ca nt say that i liked homeboy it would be more accurate to say that i found it intriguing bizarre dogmalike in spots and quite truthful in its way,2
+808,there is nothing outstanding about this film but it is good enough and will likely be appreciated most by sailors and folks who know their way around a submarine,3
+809,a synthesis of cliches and absurdities that seems positively decadent in its cinematic flash and emptiness,1
+810,very special effects brilliantly bold colors and heightened reality ca nt hide the giant achilles heel in stuart little 2 there is just no story folks,1
+811,like all abstract art the film does not make this statement in an easily accessible way and unless prewarned it would be very possible for a reasonably intelligent person to sit through its tidal wave of imagery and not get this vision at all,2
+812,manages to show life in all of its banality when the intention is quite the opposite,1
+813,it is about following your dreams no matter what your parents think,3
+814,the very definition of the small movie but it is a good stepping stone for director sprecher,3
+815,one from the heart,3
+816,and when you are talking about a slapstick comedy that is a pretty big problem,0
+817,this is so bad,0
+818,so devoid of any kind of intelligible story that it makes films like xxx and collateral damage seem like thoughtful treatises,0
+819,ahhhh revenge is sweet,3
+820,against all odds in heaven and hell it creeped me out just fine,3
+821,the entire movie is about a boring sad man being boring and sad,1
+822,it is one heck of a character study not of hearst or davies but of the unique relationship between them,3
+823,as a tolerable diversion the film suffices a triumph however it is not,2
+824,the structure the film takes may find matt damon and ben affleck once again looking for residuals as this officially completes a good will hunting trilogy that was never planned,3
+825,whether writerdirector anne fontaine s film is a ghost story an account of a nervous breakdown a trip down memory lane all three or none of the above it is as seductive as it is haunting,3
+826,the man from elysian fields is a cold blissless work that groans along thinking itself some important comment on how life throws us some beguiling curves,0
+827,the draw lrb for big bad love rrb is a solid performance by arliss howard,4
+828,one of the more irritating cartoons you will see this or any year,0
+829,basically a static series of semiimprovised lrb and semicoherent rrb raps between the stars,1
+830,for all its technical virtuosity the film is so mired in juvenile and nearxenophobic pedagogy that it is enough to make one pine for the day when godard can no longer handle the rigors of filmmaking,0
+831,a very long movie dull in stretches with entirely too much focus on meal preparation and igloo construction,0
+832,some of it is clever but it is never melodic,2
+833,there is very little dread or apprehension and though i like the creepy ideas they are not executed with anything more than perfunctory skill,1
+834,it is fun lite,3
+835,a big gorgeous sprawling swashbuckler that delivers its diversions in grand uncomplicated fashion,4
+836,although there are several truly jolting scares there is also an abundance of hackneyed dialogue and more silly satanic business than you can shake a severed limb at,2
+837,not nearly long enough,2
+838,the overall effect is less like a children s movie than a recruitment film for future hollywood sellouts,1
+839,trite banal cliched mostly inoffensive,0
+840,so much facile technique such cute ideas so little movie,3
+841,chilling wellacted and finely directed david jacobson s dahmer,3
+842,visually rather stunning but ultimately a handsomelooking bore the true creativity would have been to hide treasure planet entirely and completely reimagine it,1
+843,columns from ladies home journal,2
+844,a movie that successfully crushes a best selling novel into a timeframe that mandates that you avoid the godzilla sized soda,3
+845,once the 50 year old benigni appears as the title character we find ourselves longing for the block of wood to come back,1
+846,on the bright side it contains jesse ventura s best work since the xfl,2
+847,but taken as a stylish and energetic oneshot the queen of the damned can not be said to suck,3
+848,at least one scene is so disgusting that viewers may be hard pressed to retain their lunch,1
+849,the movie has an infectious exuberance that will engage anyone with a passing interest in the skatesurf culture the la beach scene and the imaginative lrb and sometimes illegal rrb ways kids can make a playground out of the refuse of adults,4
+850,should be seen at the very least for its spasms of absurdist humor,2
+851,much as we might be interested in gratuitous sexualization haneke has a different objective in mind namely the implications of our craving for fake stimulation,2
+852,for aids and africa are nothing more than part of the scenery,2
+853,corpus collosum while undeniably interesting wore out its welcome well before the end credits rolled about 45 minutes in,1
+854,nothing is black and white,2
+855,this illuminating documentary transcends our preconceived vision of the holy land and its inhabitants revealing the human complexities beneath,3
+856,trademark american triteness and simplicity are tossed out the window with the intelligent french drama that deftly explores the difficult relationship between a father and son,3
+857,villeneuve spends too much time wallowing in bibi s generic angst lrb there are a lot of shots of her gazing out windows rrb,1
+858,what is 100 missing here is a script of even the most elemental literacy an inkling of genuine wit and anything resembling acting,0
+859,who needs love like this,2
+860,as the two leads lathan and diggs are charming and have chemistry both as friends and lovers,4
+861,like leon it is frustrating and still oddly likable,3
+862,if you can stomach the rough content it is worth checking out for the performances alone,3
+863,there is really only one good idea in this movie but the director runs with it and presents it with an unforgettable visual panache,3
+864,and that leaves a hole in the center of the salton sea,1
+865,there is tremendous energy from the cast a sense of playfulness and excitement that seems appropriate,3
+866,although jackson is doubtless reserving the darkest hours for the return of the king we long for a greater sense of urgency in the here and now of the two towers,2
+867,director andrew niccol demonstrates a wry understanding of the quirks of fame,3
+868,try as i may i ca nt think of a single good reason to see this movie even though everyone in my group extemporaneously shouted thank you,0
+869,shaky closeups of turkeyonrolls stubbly chins liver spots red noses and the filmmakers new bobbed do draw easy chuckles but lead nowhere,1
+870,utterly lacking in charm wit and invention roberto benigni s pinocchio is an astonishingly bad film,1
+871,further proof that the epicenter of cool beautiful thoughtprovoking foreign cinema is smackdab in the middle of dubya s axis of evil,3
+872,but what are adults doing in the theater at all,1
+873,miller is playing so free with emotions and the fact that children are hostages to fortune that he makes the audience hostage to his swaggering affectation of seriousness,3
+874,the piece plays as well as it does thanks in large measure to anspaugh s three lead actresses,3
+875,what better message than love thyself could young women of any size receive,3
+876,if you enjoy more thoughtful comedies with interesting conflicted characters this one is for you,4
+877,may not have generated many sparks but with his affection for astoria and its people he has given his tale a warm glow,2
+878,it is like every bad idea that is ever gone into an afterschool special compiled in one place minus those daytime programs slickness and sophistication lrb and who knew they even had any rrb,0
+879,the movie is beautiful to behold and engages one in a sense of epic struggle inner and outer that is all too rare in hollywood s hastier productions,4
+880,prancing his way through the tailormade part of a male hooker approaching the end of his vitality jagger obviously relishes every selfmocking moment,2
+881,there is not enough here to justify the almost two hours,1
+882,although huppert s intensity and focus has a raw exhilaration about it the piano teacher is anything but fun,1
+883,a gripping searing portrait of a lost soul trying to find her way through life,2
+884,nothing is sacred in this gutbuster,1
+885,a tender heartfelt family drama,3
+886,nothing scary here except for some awful acting and lame special effects,1
+887,it made me want to wrench my eyes out of my head and toss them at the screen,1
+888,but the power of these lrb subjects rrb is obscured by the majority of the film that shows a stationary camera on a subject that could be mistaken for giving a public oration rather than contributing to a film s narrative,0
+889,suffocated by its fussy script and uptight characters this musty adaptation is all the more annoying since it is been packaged and sold back to us by hollywood,0
+890,a delirious celebration of the female orgasm,2
+891,reign of fire looks as if it was made without much thought and is best watched that way,3
+892,without the dark spookiness of crystal lake camp the horror concept completely loses its creepy menace,2
+893,the acting costumes music cinematography and sound are all astounding given the production s austere locales,4
+894,this is nt even madonna s swept away,1
+895,i ca nt quite recommend it it is too patched together but i almost can it is the kind of movie that makes you want to like it,2
+896,a coda in every sense the pinochet case splits time between a minutebyminute account of the british court s extradition chess game and the regime s talkinghead survivors,4
+897,brilliantly explores the conflict between following one s heart and following the demands of tradition,4
+898,like you could nt smell this turkey rotting from miles away,0
+899,involves two mysteries one it gives away and the other featuring such badly drawn characters that its outcome hardly matters,0
+900,the plot combines the blues brothers and almost famous lrb but with bears and a g rating rrb with an excruciating dollop of disney sentimentality mixed in for good measure,2
+901,i would have to say the star and director are the big problems here,1
+902,lrb director rrb ofallon manages to put some lovely pictures up on the big screen but his skill at telling a story he also contributed to the screenplay falls short,0
+903,the problem with this film is that it lacks focus,1
+904,on the whole the movie lacks wit feeling and believability to compensate for its incessant coarseness and banality,0
+905,long time dead,2
+906,a magnificent drama well worth tracking down,4
+907,the film serves as a valuable time capsule to remind us of the devastating horror suffered by an entire people,2
+908,the next generation of mob movie,2
+909,perceptive in its vision of nascent industrialized world politics as a new art form but far too clunky didactic and saddled with scenes that seem simply an ill fit for this movie,1
+910,for all the writhing and wailing tears rage and opium overdoses there is no sense of actual passion being washed away in love s dissolution,1
+911,it believes it is revealing some great human truths when in reality it is churning ground that has long passed the point of being fertile,2
+912,it is an offbeat treat that pokes fun at the democratic exercise while also examining its significance for those who take part,3
+913,oldform moviemaking at its best,4
+914,a sometimes tedious film,1
+915,whenever its story is nt bogged down by idiocy involving the cia and a lost us satellite hunter starring irwin and his american wifecolleague terri is a movie children should enjoy,2
+916,a gorgeous witty seductive movie,3
+917,moody heartbreaking and filmed in a natural unforced style that makes its characters seem entirely convincing even when its script is not,3
+918,a nightmare date with a halfformed wit done a great disservice by a lack of critical distance and a sad trust in liberal arts college bumper sticker platitudes,1
+919,late marriage s stiffness is unlikely to demonstrate the emotional clout to sweep us viewers off their feet,1
+920,a movie that reminds us of just how exciting and satisfying the fantasy cinema can be when it is approached with imagination and flair,3
+921,but it still jingles in the pocket,3
+922,it is the chemistry between the women and the droll scenestealing wit and wolfish pessimism of anna chancellor that makes this two weddings and a funeral fun,4
+923,it all drags on so interminably it is like watching a miserable relationship unfold in real time,0
+924,the french are rather good at this kind of thing unlike the americans who have a passion for musketeers only to spoof them,2
+925,nasty ugly pointless and depressing even if you hate clowns,2
+926,it wants to tweak them with a taste of tangy new humor,3
+927,which is nt to say that it is the equal of some of its predecessors,2
+928,an unclassifiably awful study in self and audienceabuse,0
+929,comes uncomfortably close to coasting in the treads of the bicycle thief,1
+930,you do nt have to know about music to appreciate the film s easygoing blend of comedy and romance,4
+931,if you are a wwf fan or you related to the people who watched the robots getting butchered in ai you will probably like rollerball,2
+932,the film makes a fatal mistake it asks us to care about a young man whose only apparent virtue is that he is not quite as unpleasant as some of the people in his life,1
+933,it is a featurelength adaptation of one of those can this marriage be saved,2
+934,it will grip even viewers who are nt interested in rap as it cuts to the heart of american society in an unnerving way,3
+935,challenging intermittently engrossing and unflaggingly creative,4
+936,expect the sameold lameold slasher nonsense just with different scenery,0
+937,there is just no currency in deriding james bond for being a clichd doddering misogynistic boy s club,2
+938,the whole is quite entertaining but despite its virtues there is an unsettled feeling to the film,2
+939,the film s snags and stumblings are more than compensated for by its wryly subversive tone,2
+940,tries to add some spice to its quirky sentiments but the taste is all too familiar,1
+941,while the resident evil games may have set new standards for thrills suspense and gore for video games the movie really only succeeds in the third of these,1
+942,barely gets off the ground,2
+943,beautifully observed miraculously unsentimental comedydrama,4
+944,a solid film but more conscientious than it is truly stirring,3
+945,let us hope shall we,2
+946,i still ca nt relate to stuart he is a mouse for cryin out loud and all he does is milk it with despondent eyes and whine that nobody treats him human enough,2
+947,stealing harvard aspires to comedic grand larceny but stands convicted of nothing more than petty theft of your time,1
+948,the gazillionth airhead movie about a wife in distress who resorts to desperate measures,2
+949,good oldfashioned slashandhack is back,3
+950,a movie with a real anarchic flair,3
+951,it is one pussyass world when even killerthrillers revolve around group therapy sessions,0
+952,characters still need to function according to some set of believable and comprehensible impulses no matter how many drugs they do or how much artistic license avary employs,1
+953,maneuvers skillfully through the plot s hot brine until it is undone by the sogginess of its contemporary characters and actors,2
+954,a densely constructed highly referential film and an audacious return to form that can comfortably sit among jeanluc godard s finest work,4
+955,a thinly veiled look at different aspects of chinese life clashing with each other,2
+956,far more imaginative and ambitious than the trivial cashin features nickelodeon has made from its other animated tv series,4
+957,pumpkin means to be an outrageous dark satire on fraternity life but its ambitions far exceed the abilities of writer adam larson broder and his codirector tony r abrams in their feature debut,1
+958,it is too bad that the helping hand he uses to stir his ingredients is also a heavy one,1
+959,zhang has done an amazing job of getting realistic performances from his mainly nonprofessional cast,3
+960,without ever becoming didactic director carlos carrera expertly weaves this novelistic story of entangled interrelationships and complex morality,3
+961,it is hampered by a lifetimechannel kind of plot and a lead actress who is out of her depth,1
+962,pumpkin wants to have it both ways,2
+963,gives you the steady pulse of life in a beautiful city viewed through the eyes of a character who in spite of tragic loss and increasing decrepitude knows in his bones that he is one of the luckiest men alive,3
+964,lrb chaiken s rrb talent lies in an evocative accurate observation of a distinctive milieu and in the lively convincing dialogue she creates for her characters,3
+965,a psychological thriller with a genuinely spooky premise and an aboveaverage cast actor bill paxton s directing debut is a creepy slice of gothic rural americana,4
+966,it is worth seeing just on the basis of the wisdom and at times the startling optimism of the children,3
+967,dragonfly has no atmosphere no tension nothing but costner flailing away,0
+968,the film flat lines when it should peak and is more missed opportunity and trifle than dark decadent truffle,1
+969,less dizzying than just dizzy the jaunt is practically over before it begins,1
+970,a sciencefiction pastiche so lacking in originality that if you stripped away its inspirations there would be precious little left,0
+971,lrb w rrb hile long on amiable monkeys and worthy environmentalism jane goodall s wild chimpanzees is short on the thrills the oversize medium demands,1
+972,intriguing documentary which is emotionally diluted by focusing on the story s least interesting subject,3
+973,the son s room is a triumph of gentility that earns its moments of pathos,3
+974,a disappointment for those who love alternate versions of the bard particularly ones that involve deep fryers and hamburgers,1
+975,it is clear the filmmakers were nt sure where they wanted their story to go and even more clear that they lack the skills to get us to this undetermined destination,1
+976,a hollow joke told by a cinematic gymnast having too much fun embellishing the misanthropic tale to actually engage it,1
+977,this time mr burns is trying something in the martin scorsese streetrealist mode but his selfregarding sentimentality trips him up again,1
+978,manages to be both repulsively sadistic and mundane,0
+979,a simple but gritty and wellacted ensemble drama that encompasses a potent metaphor for a country still dealing with its fascist past,4
+980,yes ballistic is silly,2
+981,the film is beautifully mounted but more to the point the issues are subtly presented managing to walk a fine line with regard to the question of joan s madness,3
+982,a sequel that is much too big for its britches,1
+983,this is an egotistical endeavor from the daughter of horror director dario argento lrb a producer here rrb but her raw performance and utter fearlessness make it strangely magnetic,3
+984,nicks seemingly uncertain what is going to make people laugh runs the gamut from stale parody to raunchy sex gags to formula romantic comedy,1
+985,it deserves to be seen by anyone with even a passing interest in the events shaping the world beyond their own horizons,3
+986,it treats women like idiots,0
+987,there are some wonderfully fresh moments that smooth the moral stiffness with human kindness and hopefulness,4
+988,the result is a gaudy bag of stale candy something from a halloween that died,1
+989,an interesting story with a pertinent lrb cinematically unique rrb message told fairly well and scored to perfection i found myself struggling to put my finger on that elusive missing thing,3
+990,weaves a spell over you with its disturbingly closeup look at damaged psyches and its subtle undercurrents of danger,2
+991,what is next my mother the car,2
+992,not far beneath the surface this reconfigured tale asks disturbing questions about those things we expect from military epics,3
+993,a momentary escape from the summer heat and the sedentary doldrums that set in at this time of year,2
+994,an absurdist comedy about alienation separation and loss,1
+995,the talented and clever robert rodriguez perhaps put a little too much heart into his first film and did nt reserve enough for his second,1
+996,hilariously inept and ridiculous,3
+997,vera s three actors moll gil and bardem excel in insightful empathetic performances,4
+998,for close to two hours the audience is forced to endure three terminally depressed mostly inarticulate hyper dysfunctional families for the price of one,1
+999,good car chases great fight scenes and a distinctive blend of european american and asian influences,3
+1000,the performances take the movie to a higher level,4
+1001,some of their jokes work but most fail miserably and in the end pumpkin is far more offensive than it is funny,1
+1002,chokes on its own depiction of uppercrust decorum,1
+1003,if looking for a thrilling scifi cinematic ride do nt settle for this imposter,1
+1004,would nt one about their famous dad author of death in venice etc be more valuable,2
+1005,though catch me if you can is nt badly made the fun slowly leaks out of the movie,2
+1006,despite impeccable acting and a script that takes some rather unexpected lrb even at times preposterous rrb turns love is just too too precious in the end,2
+1007,deadeningly dull mired in convoluted melodrama nonsensical jargon and stiffupperlip laboriousness,0
+1008,collateral damage finally delivers the goods for schwarzenegger fans,3
+1009,part three stooges,2
+1010,still as a visual treat the film is almost unsurpassed,4
+1011,his last movie was poetically romantic and full of indelible images but his latest has nothing going for it,0
+1012,portentous and pretentious the weight of water is appropriately titled given the heavyhandedness of it drama,1
+1013,the minor figures surrounding lrb bobby rrb form a gritty urban mosaic,3
+1014,no one but a convict guilty of some truly heinous crime should have to sit through the master of disguise,0
+1015,complete lack of originality cleverness or even visible effort,1
+1016,it is inoffensive cheerful built to inspire the young people set to an unending soundtrack of beach party pop numbers and aside from its remarkable camerawork and awesome scenery it is about as exciting as a sunburn,1
+1017,while it is nice to watch a movie that has nt been focusgrouped into tedium yu s cinematic alchemy produces nearly as much lead as gold,2
+1018,the movie does a good job of laying out some of the major issues that we encounter as we journey through life,3
+1019,returning aggressively to his formula of dimwitted comedy and even dimmer characters sandler who also executive produces has made a film that makes previous vehicles look smart and sassy,2
+1020,there is enough melodrama in this magnolia primavera to make pta proud yet director muccino s characters are less worthy of puccini than they are of daytime television,1
+1021,zaidan s script has barely enough plot to string the stunts together and not quite enough characterization to keep the faces straight,1
+1022,not only are the special effects and narrative flow much improved and daniel radcliffe more emotionally assertive this time around as harry but the film conjures the magic of author jk rowling s books,4
+1023,the best revenge may just be living well because this film unlike other dumas adaptations is far more likened to a treasure than a lengthy jail sentence,3
+1024,the film is a contrivance as artificial as the video games japanese teens play in a nightclub sequence but it is an enjoyable one,2
+1025,chilling but uncommercial look into the mind of jeffrey dahmer serial killer,2
+1026,too much of the humor falls flat,1
+1027,falls neatly into the category of good stupid fun,3
+1028,if the count of monte cristo does nt transform caviezel into a movie star then the game is even more rigged than it was two centuries ago,2
+1029,jaglom put lrb s rrb the audience in the privileged position of eavesdropping on his characters,3
+1030,if only the story about a multimillion dollar con bothered to include the con,2
+1031,every dance becomes about seduction where backstabbing and betrayals are celebrated and sex is currency,1
+1032,velocity represents everything wrong with independent film as a commodified soldout concept on the american filmmaking scene,1
+1033,hardly a masterpiece but it introduces viewers to a good charitable enterprise and some interesting real people,3
+1034,one of creepiest scariest movies to come along in a long long time easily rivaling blair witch or the others,3
+1035,it has its moments of swaggering camaraderie but more often just feels generic derivative and done to death,1
+1036,the soinept it is surreal dubbing lrb featuring the voices of glenn close regis philbin and breckin meyer rrb brings back memories of cheesy old godzilla flicks,0
+1037,it is everything you do nt go to the movies for,0
+1038,mattei is tiresomely grave and longwinded as if circularity itself indicated profundity,0
+1039,the twist that ends the movie is the one with the most emotional resonance but twists are getting irritating and this is the kind of material where the filmmakers should be very careful about raising eyebrows,2
+1040,pacino is brilliant as the sleepdeprived dormer his increasing weariness as much existential as it is physical,4
+1041,a compelling spanish film about the withering effects of jealousy in the life of a young monarch whose sexual passion for her husband becomes an obsession,3
+1042,holy mad maniac in a mask splatman,2
+1043,there is something auspicious and daring too about the artistic instinct that pushes a majorityoriented director like steven spielberg to follow ai with this challenging report so liable to unnerve the majority,3
+1044,whereas last year s exemplary sexy beast seemed to revitalize the british gangster movie this equally brutal outing merely sustains it,2
+1045,bad,1
+1046,an intriguing cinematic omnibus and roundrobin that occasionally is more interesting in concept than in execution,3
+1047,it is sweet harmless dumb occasionally funny and about as compelling as a fishing show,2
+1048,the subtle strength of elling is that it never loses touch with the reality of the grim situation,3
+1049,not exactly the bees knees,1
+1050,audrey tatou has a knack for picking roles that magnify her outrageous charm and in this literate french comedy she is as morningglory exuberant as she was in amlie,3
+1051,just not campy enough,1
+1052,an unpredictable blend of galpal smart talk romantic comedy and dark tragedy that bites off considerably more than writerdirector john mckay can swallow,2
+1053,equilibrium is what george orwell might have imagined had today s moodaltering drug therapy been envisioned by chemists in 1949,2
+1054,a mustsee for the david mamet enthusiast and for anyone who appreciates intelligent stylish moviemaking,4
+1055,a spellbinding african film about the modern condition of rootlessness a state experienced by millions around the globe,4
+1056,a cartoon that is truly cinematic in scope and a story that is compelling and heartfelt even if the heart belongs to a big fourlegged herbivore,3
+1057,you will emerge with a clearer view of how the gears of justice grind on and the death report comes to share airtime alongside the farm report,3
+1058,an operatic sprawling picture that is entertainingly acted magnificently shot and gripping enough to sustain most of its 170minute length,3
+1059,i have always dreamed of attending cannes but after seeing this film it is not that big a deal,1
+1060,morton uses her face and her body language to bring us morvern s soul even though the character is almost completely deadpan,3
+1061,and i have decided to leave a light on every night from now on,2
+1062,the strippeddown approach does give the film a certain timeless quality but the measured pace and lack of dramatic inflection can also seem tedious,2
+1063,it conveys a simple message in a visual style that is willfully overwrought,2
+1064,rarely has leukemia looked so shimmering and benign,1
+1065,we have nt seen such hilarity since say it is nt so,4
+1066,true tale of courage and complicity at auschwitz is a harrowing drama that tries to tell of the unspeakable,3
+1067,how do you spell clich,0
+1068,manages to be somewhat wellacted not badly artdirected and utterly unengaging no matter how hard it tries to be thrilling touching or yikes uproarious,2
+1069,the script is nt very good not even someone as gifted as hoffman lrb the actor rrb can make it work,1
+1070,a giggle a minute,4
+1071,made with no discernible craft and monstrously sanctimonious in dealing with childhood loss,1
+1072,the only excitement comes when the credits finally roll and you get to leave the theater,0
+1073,maud and roland s search for an unknowable past makes for a haunting literary detective story but labute pulls off a neater trick in possession he makes language sexy,4
+1074,but this films lacks the passion required to sell the material,1
+1075,just an average comedic dateflick but not a waste of time,2
+1076,vera s technical prowess ends up selling his film short he smoothes over hard truths even as he uncovers them,1
+1077,a ragbag of promising ideas and failed narrative of good acting and plain old bad filmmaking,2
+1078,the film is based on truth and yet there is something about it that feels incomplete as if the real story starts just around the corner,1
+1079,corny schmaltzy and predictable but still manages to be kind of heartwarming nonetheless,3
+1080,huston nails both the gladhanding and the choking sense of hollow despair,3
+1081,in an effort i suspect not to offend by appearing either too serious or too lighthearted it offends by just being wishywashy,1
+1082,if i had been thinking about the visual medium they would have been doing something wrong,2
+1083,nelson s brutally unsentimental approach sucks the humanity from the film leaving behind an horrific but weirdly unemotional spectacle,0
+1084,a sequence of ridiculous shoot em up scenes,1
+1085,it seems like i have been waiting my whole life for this movie and now i ca nt wait for the sequel,3
+1086,liotta put on 30 pounds for the role and has completely transformed himself from his smooth goodfellas image,3
+1087,passable entertainment but it is the kind of motion picture that wo nt make much of a splash when it is released and will not be remembered long afterwards,1
+1088,the movie is for fans who ca nt stop loving anime and the fanatical excess built into it,2
+1089,a sober and affecting chronicle of the leveling effect of loss,2
+1090,it is made with deftly unsettling genre flair,3
+1091,it is dumb but more importantly it is just not scary,0
+1092,a study in shades of gray offering itself up in subtle plot maneuvers,3
+1093,ruzowitzky has taken this mothbally stuff and made a rather sturdy oldfashioned entertainment out of it,2
+1094,the tale of tok lrb andy lau rrb a sleek sociopath on the trail of o lrb takashi sorimachi rrb the most legendary of asian hitmen is too scattershot to take hold,1
+1095,something like scrubbing the toilet,1
+1096,the ring is pretty much an englishlanguage copy of the film that inspired it and it carries the same strengths and flaws,2
+1097,smart provocative and blisteringly funny,3
+1098,this one is definitely one to skip even for horror movie fanatics,0
+1099,charles entertaining film chronicles seinfeld s return to standup comedy after the wrap of his legendary sitcom alongside wannabe comic adams attempts to get his shot at the big time,3
+1100,an effectively creepy fearinducing lrb not fearreducing rrb film from japanese director hideo nakata who takes the superstitious curse on chain letters and actually applies it,4
